@@ -3,7 +3,6 @@
 <h2>👨‍💻 CYbersecurity Projects:</h2>
 
 - <b>Google cybersecurity professional certificate projects</b>
-  -.
 - <b>Password strength checker using Python</b>
   -.
 - <b>SOAR automation(basic home lab)</b>
