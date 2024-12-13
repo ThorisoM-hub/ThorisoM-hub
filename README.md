@@ -4,15 +4,19 @@
 
 - <b>Google cybersecurity professional certificate projects</b>
 - <b>Password strength checker using Python</b>
-  -.
-- <b>SOAR automation(basic home lab)</b>
--.
-- <b>Configuiring a basic home network-Cisco networking basics)</b>
-     -.
+- <b>Cisco Networking Basics:reating a LAN - Packet tracer </b>
+- <b> Phishing mail alert investigation  </b>
+
+
+  
+  
+
 
 
 <h2>📺 YouTube Videos</h2>
+
 - {SOC fundamentals Hands-on training}https://www.youtube.com/watch?v=xixPMpCss7w&t=2s
+-  {Phishing email analysis hands on training} https://www.youtube.com/watch?v=pYIo-_UVD5o
 
 <h2> 🤳 Connect with me:</h2>
 
