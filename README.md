@@ -2,11 +2,12 @@
 
 <h2>👨‍💻 CYbersecurity Projects:</h2>
 
-- <b>Google cybersecurity professional certificate projects</b>
-- <b>Password Strength Checker Using Python</b>
-- <b>Cisco Networking Basics:Creating a LAN - Packet tracer </b>
-- <b>Active Directory Home Lab Using Powershell</b>
-- <b> Phishing Mail Alert Investigation  </b>
+- Google cybersecurity professional certificate projects
+- Password Strength Checker Using Python
+    - (https://github.com/ThorisoM-hub/Password-strength-checker)
+- Cisco Networking Basics:Creating a LAN - Packet tracer
+- Active Directory Home Lab Using Powershell
+- Phishing Mail Alert Investigation  
 
 
 
