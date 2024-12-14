@@ -1,11 +1,11 @@
 <h1>Hi, I'm Thoriso! <br/><a href="https://github.com/ThorisoM-hub/ThorisoM-hub">FIS graduate</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Aspiring Cybersecurity Professional</a>, <a href="https://www.youtube.com/@Thoriso_Maditse">YouTuber</a></h1>
 
-<h2>👨‍💻 CYbersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - Google cybersecurity professional certificate projects
 - Password Strength Checker Using Python
-    - (https://github.com/ThorisoM-hub/Password-strength-checker)
-- Cisco Networking Basics:Creating a LAN - Packet tracer
+  - (https://github.com/ThorisoM-hub/Password-strength-checker)
+- Cisco Networking Basics: Creating a LAN - Packet tracer
 - Active Directory Home Lab Using Powershell
 - Phishing Mail Alert Investigation  
 
