@@ -5,7 +5,7 @@
 - <b>Google cybersecurity professional certificate projects</b>
 - <b>Password strength checker using Python</b>
 - <b>Cisco Networking Basics:reating a LAN - Packet tracer </b>
-- <b>Active directory home lab using powershell</b>
+- <b>Active Directory home lab using Powershell</b>
 - <b> Phishing mail alert investigation  </b>
 
 
