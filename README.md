@@ -1,5 +1,6 @@
 # Hi, I'm Thoriso!
-FIS graduate, [Aspiring Cybersecurity Professional](https://www.linkedin.com/in/joshmadakor/), [YouTuber](https://www.youtube.com/@Thoriso_Maditse)
+FIS graduate, <a href="https://www.linkedin.com/in/thoriso-maditse-01ab84220/" style="text-decoration:none;">Aspiring Cybersecurity Professional</a>, <a href="https://www.youtube.com/@Thoriso_Maditse" style="text-decoration:none;">YouTuber</a>
+
 
 ## 📃 Certifications:
 - **Google Cybersecurity Professional Certificate**
