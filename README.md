@@ -34,7 +34,7 @@ FIS graduate, [Aspiring Cybersecurity Professional](https://www.linkedin.com/in/
 ---
 
 ## 🤳 Connect with me:
-[![YouTube](https://img.shields.io/badge/YouTube-@Thoriso_Maditse-red)](https://www.youtube.com/@Thoriso_Maditse) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thoriso_Maditse-blue)](https://www.linkedin.com/in/thoriso-maditse-01ab84220/)
+[![YouTube](https://img.shields.io/badge/YouTube-@Thoriso_Maditse-red)](https://www.youtube.com/@Thoriso_Maditse)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thoriso_Maditse-blue)](https://www.linkedin.com/in/thoriso-maditse-01ab84220/)
 
 ---
 
