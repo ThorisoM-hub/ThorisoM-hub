@@ -1,5 +1,13 @@
 <h1>Hi, I'm Thoriso! <br/><a href="https://github.com/ThorisoM-hub/ThorisoM-hub">FIS graduate</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Aspiring Cybersecurity Professional</a>, <a href="https://www.youtube.com/@Thoriso_Maditse">YouTuber</a></h1>
 
+
+<h2>📃 Certifications </h2>
+
+- Google cybersecurity professional certification 
+
+- Cisco Networking Basics
+  - https://www.credly.com/badges/ffe6691f-fe40-47e1-87f5-f40d5cbc7c82/linked_in_profile
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - Google cybersecurity professional certificate projects
