@@ -1,4 +1,4 @@
-<h1>Hi, I'm Thoriso! <br/><a href="https://github.com/ThorisoM-hub/ThorisoM-hub">FIS graduate</a>, <a href="www.linkedin.com/in/thoriso-maditse-01ab84220>Aspiring Cybersecurity Professional"</a>, <a href="https://www.youtube.com/@Thoriso_Maditse">YouTuber</a></h1>
+<h1>Hi, I'm Thoriso! <br/><a href="https://github.com/ThorisoM-hub/ThorisoM-hub">FIS graduate</a>, <a href="https://www.linkedin.com/in/thoriso-maditse-01ab84220">Aspiring Cybersecurity Professional</a>, <a href="https://www.youtube.com/@Thoriso_Maditse">YouTuber</a></h1
 
 
 <h2>📃 Certifications </h2>
