@@ -12,7 +12,7 @@
 
 - Google cybersecurity professional certificate projects
 - Password Strength Checker Using Python
-  - (https://github.com/ThorisoM-hub/Password-strength-checker)
+  - https://github.com/ThorisoM-hub/Password-strength-checker
 - Cisco Networking Basics: Creating a LAN - Packet tracer
 - Active Directory Home Lab Using Powershell
 - Phishing Mail Alert Investigation  
