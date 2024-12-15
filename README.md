@@ -3,7 +3,7 @@
 
 <h2>📃 Certifications </h2>
 
-- Google cybersecurity professional certification 
+- Google cybersecurity professional certificate 
 
 - Cisco Networking Basics: [View Badge](https://www.credly.com/badges/ffe6691f-fe40-47e1-87f5-f40d5cbc7c82/linked_in_profile)
 
