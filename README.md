@@ -26,9 +26,9 @@
 
 <h2>📺 YouTube Videos</h2>
 
-- {SOC fundamentals Hands-on training - Letsdefend}https://www.youtube.com/watch?v=xixPMpCss7w&t=2s
--  {Phishing email analysis hands on training -Letsdefend} https://www.youtube.com/watch?v=pYIo-_UVD5o
-- {Cisco Networking Basics: Creating a LAN - Packet tracer} https://www.youtube.com/watch?v=jOmqFi28hDI&list=PLC0b3C1jAAo4DxLxsaXrt0SLeLSFQq-t-&index=1
+- {SOC fundamentals Hands-on training - Letsdefend} - https://www.youtube.com/watch?v=xixPMpCss7w&t=2s
+-  {Phishing email analysis hands on training -Letsdefend} - https://www.youtube.com/watch?v=pYIo-_UVD5o
+- {Cisco Networking Basics: Creating a LAN - Packet tracer} - https://www.youtube.com/watch?v=jOmqFi28hDI&list=PLC0b3C1jAAo4DxLxsaXrt0SLeLSFQq-t-&index=1
 
 <h2> 🤳 Connect with me:</h2>
 
