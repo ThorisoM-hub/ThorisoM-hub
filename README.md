@@ -1,7 +1,14 @@
 # Hi, I'm Thoriso! 👋
 FIS graduate, [Aspiring Cybersecurity Professional](https://www.linkedin.com/in/thoriso-maditse-01ab84220/), [YouTuber](https://www.youtube.com/@Thoriso_Maditse)
-
 ---
+
+<h2>🏋️‍♂️  Trainings:<h2/>
+  
+- **Soc Fundamentals**[View Badge](https://app.letsdefend.io/my-rewards/detail/b944c0e5-7584-4110-9cbd-dcd10107ab02)
+- **Email Phishing Analysis**[View Badge](https://app.letsdefend.io/my-rewards/detail/d253c2bd-3742-4678-8ec6-35aa9cfbeaec)
+  
+---
+
 
 ## 📃 Certifications:
 - **Google Cybersecurity Professional Certificate**
@@ -9,7 +16,7 @@ FIS graduate, [Aspiring Cybersecurity Professional](https://www.linkedin.com/in/
 
 ---
 
-## 👨‍💻 Cybersecurity Projects:
+## 👨‍💻Cybersecurity Projects:
 - **[Google Cybersecurity Professional Certificate Projects]**: Hands-on projects from the certification course.
 - **[Password Strength Checker Using Python]**: A Python tool to evaluate password strength.  
   [View Project](https://github.com/ThorisoM-hub/Password-strength-checker) 
