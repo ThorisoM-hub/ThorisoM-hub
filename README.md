@@ -2,13 +2,11 @@
 FIS graduate, [Aspiring Cybersecurity Professional](https://www.linkedin.com/in/thoriso-maditse-01ab84220/), [YouTuber](https://www.youtube.com/@Thoriso_Maditse)
 ---
 
-<h2>🏋️‍♂️  Trainings:<h2/>
-  
-- **Soc Fundamentals**[View Badge](https://app.letsdefend.io/my-rewards/detail/b944c0e5-7584-4110-9cbd-dcd10107ab02)
-- **Email Phishing Analysis**[View Badge](https://app.letsdefend.io/my-rewards/detail/d253c2bd-3742-4678-8ec6-35aa9cfbeaec)
-  
----
+## 🏋️‍♂️ Trainings:
+- **Soc Fundamentals** [View Badge](https://app.letsdefend.io/my-rewards/detail/b944c0e5-7584-4110-9cbd-dcd10107ab02)
+- **Email Phishing Analysis** [View Badge](https://app.letsdefend.io/my-rewards/detail/d253c2bd-3742-4678-8ec6-35aa9cfbeaec)
 
+---
 
 ## 📃 Certifications:
 - **Google Cybersecurity Professional Certificate**
@@ -19,7 +17,7 @@ FIS graduate, [Aspiring Cybersecurity Professional](https://www.linkedin.com/in/
 ## 👨‍💻Cybersecurity Projects:
 - **[Google Cybersecurity Professional Certificate Projects]**: Hands-on projects from the certification course.
 - **[Password Strength Checker Using Python]**: A Python tool to evaluate password strength.  
-  [View Project](https://github.com/ThorisoM-hub/Password-strength-checker) 
+  [View Project](https://github.com/ThorisoM-hub/Password-strength-checker)
 - **[Cisco Networking Basics: Creating a LAN - Packet Tracer]**: A project demonstrating the setup of a LAN using Packet Tracer.
 - **[Active Directory Home Lab Using PowerShell]**: A PowerShell-based project for managing Active Directory.
 - **[Phishing Mail Alert Investigation and Incident Response]**: Investigated phishing mail that contains a malicious attachment file and used a playbook to respond to the threat.
@@ -49,17 +47,7 @@ FIS graduate, [Aspiring Cybersecurity Professional](https://www.linkedin.com/in/
 
 
 
+
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
