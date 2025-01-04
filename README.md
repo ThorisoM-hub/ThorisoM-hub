@@ -21,6 +21,7 @@ FIS graduate, [Aspiring Cybersecurity Professional](https://www.linkedin.com/in/
 - **[Cisco Networking Basics: Creating a LAN - Packet Tracer]**: A project demonstrating the setup of a LAN using Packet Tracer.
 - **[Active Directory Home Lab Using PowerShell]**: A PowerShell-based project for managing Active Directory.
 - **[Phishing Mail Alert Investigation and Incident Response]**: Investigated phishing mail that contains a malicious attachment file and used a playbook to respond to the threat.
+  [View Project](https://github.com/ThorisoM-hub/phishing-mail-alert-investigation-of-malicious-file-attachment)
 
 ---
 
