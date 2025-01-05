@@ -30,6 +30,7 @@ FIS graduate, [Aspiring Cybersecurity Professional](https://www.linkedin.com/in/
 - **[SOC Fundamentals Hands-on Training - Letsdefend](https://www.youtube.com/watch?v=xixPMpCss7w&t=2s)**
 - **[Phishing Email Analysis Hands-on Training - Letsdefend](https://www.youtube.com/watch?v=pYIo-_UVD5o)**
 - **[Cisco Networking Basics: Creating a LAN - Packet Tracer](https://www.youtube.com/watch?v=jOmqFi28hDI&list=PLC0b3C1jAAo4DxLxsaXrt0SLeLSFQq-t-&index=1)**
+- **[Phishing mail alert investigation(malicious file attachment)](https://www.youtube.com/watch?v=erbS2OB38ww)**
 
 ---
 
