@@ -5,6 +5,7 @@ FIS graduate, [Aspiring Cybersecurity Professional](https://www.linkedin.com/in/
 ## 🏋️‍♂️ Trainings:
 - **Soc Fundamentals** [View Badge](https://app.letsdefend.io/my-rewards/detail/b944c0e5-7584-4110-9cbd-dcd10107ab02)
 - **Email Phishing Analysis** [View Badge](https://app.letsdefend.io/my-rewards/detail/d253c2bd-3742-4678-8ec6-35aa9cfbeaec)
+- **Malware Analysis Fundamentals** [View Badge](https://app.letsdefend.io/my-rewards/detail/8ddbd154deb743b0afe63298f883cf34)
 
 ---
 
