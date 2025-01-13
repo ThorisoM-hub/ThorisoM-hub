@@ -46,7 +46,7 @@ FIS graduate, [Aspiring Cybersecurity Professional](https://www.linkedin.com/in/
 
 ### 📚 Tools and Skills:
 - **Languages**: Python, PowerShell, SQL, SPL
-- **Tools**: Cisco Packet Tracer, Active Directory, Splunk,S nort IDS, suricata IPS/IDS, OSINT tools(virusTotal,urlhaus,anyrun,Cuckoo sandbox)
+- **Tools**: Cisco Packet Tracer, Active Directory, Splunk, Snort IDS, Suricata IPS/IDS, OSINT tools(virusTotal, Urlhaus, Anyrun, Cuckoo sandbox)
 - **Platforms**: Cisco networking academy, Coursera, Letsdefend
 
 
