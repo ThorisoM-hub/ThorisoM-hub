@@ -15,7 +15,7 @@ FIS graduate, [Aspiring Cybersecurity Professional](https://www.linkedin.com/in/
 
 ---
 
-## 👨‍💻IT & Cybersecurity Projects:
+## 👨‍💻Projects:
 - **[Google Cybersecurity Professional Certificate Projects]**: Hands-on projects from the certification course.
 - **[Password Strength Checker Using Python]**: A Python tool to evaluate password strength.  
   [View Project](https://github.com/ThorisoM-hub/Password-strength-checker)
