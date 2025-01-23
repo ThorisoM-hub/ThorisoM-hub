@@ -25,7 +25,8 @@ FIS graduate, [Aspiring Cybersecurity Professional](https://www.linkedin.com/in/
   [view project](https://github.com/ThorisoM-hub/-Active-Directory-Home-Lab-Using-PowerShell/blob/main/README.md)
 - **[Phishing Mail Alert Investigation and Incident Response]**: Investigated phishing mail that contains a malicious attachment file and used a playbook to respond to the threat.
   [View Project](https://github.com/ThorisoM-hub/phishing-mail-alert-investigation-of-malicious-file-attachment)
-
+-**[WAF-SIEM-Integration]**: Integrates ModSecurity (WAF) with Splunk (SIEM) for web application attack detection and real-time log monitoring. Simulate attacks like SQL Injection and XSS to test the system’s effectiveness, while gaining hands-on experience in incident response and security monitoring.
+[view Project](https://github.com/ThorisoM-hub/WAF-SIEM-Integration)
 ---
 
 ## 📺 YouTube Videos:
