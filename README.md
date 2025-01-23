@@ -50,7 +50,7 @@ FIS graduate, [Aspiring Cybersecurity Professional](https://www.linkedin.com/in/
 ### 📚 Tools and Skills:
 - **Languages**: Python, PowerShell, SQL,SPL
 - **Tools**: Cisco Packet Tracer, Wireshark,Active Directory, Splunk(SIEM),IPS/IDS, OSINT tools
-- **Platforms**: Cisco networking academy, Coursera, Letsdefend
+- **Platforms**: Cisco networking academy, Coursera, Letsdefend,Tryhackme
 
 
 
