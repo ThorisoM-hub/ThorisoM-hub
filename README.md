@@ -16,7 +16,9 @@ FIS graduate, [Aspiring Cybersecurity Professional](https://www.linkedin.com/in/
 ---
 
 ## 👨‍💻Projects:
-- **[Google Cybersecurity Professional Certificate Projects]**:Portlio Projects from the course include:
+- **[Google Cybersecurity Professional Certificate Projects]**
+
+  Portlio Projects from the course include:
 
    •Drafting a Professional statement • Conducting a Security Audit • Analyzing network structure and security • Using Linux commands to manage file permissions • Applying filters to SQL 
     queries • Identifying vulnerabilities for a small business • Documenting incidents with an incident handler’s journal •Update a file through Python Algorithm[View Project]()  
@@ -24,9 +26,7 @@ FIS graduate, [Aspiring Cybersecurity Professional](https://www.linkedin.com/in/
   [View Project](https://github.com/ThorisoM-hub/Password-strength-checker)
 - **[Cisco Networking Basics: Creating a LAN - Packet Tracer]**: A project demonstrating the setup of a LAN using Packet Tracer.
  [View Project](https://github.com/ThorisoM-hub/Cisco-Networking-Basics-Creating-a-LAN---Cisco-Packet-Tracer/blob/main/README.md)
-
-
--**[Automated Vulnerability Scannning and Reporting System]**:An automated system for vulnerability scanning and report generation using OpenVAS  and  basic remediation tasks to enhance security.
+- **[Automated Vulnerability Scannning and Reporting System]**:An automated system for vulnerability scanning and report generation using OpenVAS  and  basic remediation tasks to enhance security.
 [View Project](https://github.com/ThorisoM-hub/Automated-vuln-scanning/blob/main/README.md)
 
 - **[nmap-network-scanning]**:This project demonstrates network scanning and open port exploration using Nmap on Kali Linux. It covers IP address identification, device discovery, and advanced scanning techniques like SYN scan and service detection. The scan results show active devices and no open ports in the 1-1000 range.
