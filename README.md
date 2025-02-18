@@ -16,7 +16,7 @@ FIS graduate, [Aspiring Cybersecurity Professional](https://www.linkedin.com/in/
 ---
 
 ## 👨‍💻Projects:
-- **[Google Cybersecurity Professional Certificate Projects]**
+- **[Google Cybersecurity Professional Certificate Projects(PDF)]**
 
   **Portlio Projects from the course include:**
 
