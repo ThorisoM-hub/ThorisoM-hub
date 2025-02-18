@@ -55,7 +55,7 @@ FIS graduate, [Aspiring Cybersecurity Professional](https://www.linkedin.com/in/
 > "Cybersecurity is not just about defense, but also about understanding the ever-evolving landscape of threats and staying ahead."
 
 ---
-## GitHub Stats
+## 📊 GitHub Stats
 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThorisoM-hub&show_icons=true&hide_title=true)
 
@@ -79,7 +79,7 @@ ATT&CK
  Ethical Hacking,
  Automation(Scripting)
   
-  ### **Platforms**:
+  ### 🌐**Platforms**:
  - Cisco networking academy,   Coursera, Letsdefend,Tryhackme
 
 
