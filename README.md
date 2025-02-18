@@ -21,7 +21,8 @@ FIS graduate, [Aspiring Cybersecurity Professional](https://www.linkedin.com/in/
   **Portlio Projects from the course include:**
 
    •Drafting a Professional statement • Conducting a Security Audit • Analyzing network structure and security • Using Linux commands to manage file permissions • Applying filters to SQL 
-    queries • Identifying vulnerabilities for a small business • Documenting incidents with an incident handler’s journal •Update a file through Python Algorithm[View Project]()  
+    queries • Identifying vulnerabilities for a small business • Documenting incidents with an incident handler’s journal •Update a file through Python Algorithm
+  [View Projects]()  
 - **[Password Strength Checker Using Python]**: A Python tool to evaluate password strength.
   [View Project](https://github.com/ThorisoM-hub/Password-strength-checker)
 - **[Cisco Networking Basics: Creating a LAN - Packet Tracer]**: A project demonstrating the setup of a LAN using Packet Tracer.
