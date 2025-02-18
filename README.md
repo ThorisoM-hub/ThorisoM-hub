@@ -56,20 +56,8 @@ FIS graduate, [Aspiring Cybersecurity Professional](https://www.linkedin.com/in/
 > "Cybersecurity is not just about defense, but also about understanding the ever-evolving landscape of threats and staying ahead."
 
 ---
- 
-## 📊 Github stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThorisoM-hub&show_icons=true&hide_title=true&theme=highcontrast&bg_color=003366,003366,FFD700)
-
-
-
-
-
-
-
-
-
-
-
+## 📊 GitHub Stats
+![Thoriso's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThorisoM-hub&show_icons=true&theme=highcontrast&bg_color=003366,003366,FFD700)
 
 ---
 ### 📚 Tools and Skills:
