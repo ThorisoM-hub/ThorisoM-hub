@@ -3,10 +3,10 @@ FIS graduate, [Aspiring Cybersecurity Professional](https://www.linkedin.com/in/
 ---
 
 ## 🏋️‍♂️ Trainings:
-- **Soc Fundamentals(Letsdefend)** [View Badge](https://app.letsdefend.io/my-rewards/detail/b944c0e5-7584-4110-9cbd-dcd10107ab02)
-- **Email Phishing Analysis(Letsdefend)** [View Badge](https://app.letsdefend.io/my-rewards/detail/d253c2bd-3742-4678-8ec6-35aa9cfbeaec)
-- **Malware Analysis Fundamentals(Letsdefend)** [View Badge](https://app.letsdefend.io/my-rewards/detail/8ddbd154deb743b0afe63298f883cf34)
-- **Cisco Networking Basics (Cisco NetAcad)**: [View Badge](https://www.credly.com/badges/ffe6691f-fe40-47e1-87f5-f40d5cbc7c82/linked_in_profile)
+- **Soc Fundamentals-Letsdefend** [View Badge](https://app.letsdefend.io/my-rewards/detail/b944c0e5-7584-4110-9cbd-dcd10107ab02)
+- **Email Phishing Analysis-Letsdefend** [View Badge](https://app.letsdefend.io/my-rewards/detail/d253c2bd-3742-4678-8ec6-35aa9cfbeaec)
+- **Malware Analysis Fundamentals-Letsdefend** [View Badge](https://app.letsdefend.io/my-rewards/detail/8ddbd154deb743b0afe63298f883cf34)
+- **Cisco Networking Basics-Cisco NetAcad**: [View Badge](https://www.credly.com/badges/ffe6691f-fe40-47e1-87f5-f40d5cbc7c82/linked_in_profile)
 ---
 
 ## 📃 Certifications:
