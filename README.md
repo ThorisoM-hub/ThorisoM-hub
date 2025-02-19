@@ -40,6 +40,7 @@ FIS graduate, [Aspiring Cybersecurity Professional](https://www.linkedin.com/in/
 ---
 
 ## 📺 YouTube Videos:
+## 🎥 My YouTube Videos
 
 | **Video 1** | **Video 2** | **Video 3** |
 |-------------|-------------|-------------|
