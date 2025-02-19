@@ -41,27 +41,12 @@ FIS graduate, [Aspiring Cybersecurity Professional](https://www.linkedin.com/in/
 
 ## 📺 YouTube Videos:
 
-| **Video 1** | **Video 2** | **Video 3** |
+Here is the updated table without **Video 2** and **Video 3**:
+
+| **Video 1** | **Video 4** | **Video 5** |
 |-------------|-------------|-------------|
-| [![NMAP Network Scanning](https://img.youtube.com/vi/BNfdUqlKXQ4/hqdefault.jpg)](https://www.youtube.com/watch?v=BNfdUqlKXQ4) | [![SOC Fundamentals Hands-on Training](https://img.youtube.com/vi/xixPMpCss7w/hqdefault.jpg)](https://www.youtube.com/watch?v=xixPMpCss7w) | [![Phishing Email Analysis](https://img.youtube.com/vi/pYIo-_UVD5o/hqdefault.jpg)](https://www.youtube.com/watch?v=pYIo-_UVD5o) |
-| **NMAP Network Scanning** | **SOC Fundamentals Hands-on Training** | **Phishing Email Analysis** |
-
-| **Video 4** | **Video 5** |
-|-------------|-------------|
-| [![Cisco Networking Basics](https://img.youtube.com/vi/jOmqFi28hDI/hqdefault.jpg)](https://www.youtube.com/watch?v=jOmqFi28hDI) | [![Phishing Mail Alert Investigation](https://img.youtube.com/vi/erbS2OB38ww/hqdefault.jpg)](https://www.youtube.com/watch?v=erbS2OB38ww) |
-| **Cisco Networking Basics** | **Phishing Mail Alert Investigation** |
-
-
-
-
-
-
-
-
-
-
-
-
+| [![NMAP Network Scanning](https://img.youtube.com/vi/BNfdUqlKXQ4/hqdefault.jpg)](https://www.youtube.com/watch?v=BNfdUqlKXQ4) | [![Cisco Networking Basics](https://img.youtube.com/vi/jOmqFi28hDI/hqdefault.jpg)](https://www.youtube.com/watch?v=jOmqFi28hDI) | [![Phishing Mail Alert Investigation](https://img.youtube.com/vi/erbS2OB38ww/hqdefault.jpg)](https://www.youtube.com/watch?v=erbS2OB38ww) |
+| **NMAP Network Scanning** | **Cisco Networking Basics** | **Phishing Mail Alert Investigation** |
 
 
 ---
