@@ -78,8 +78,8 @@ ATT&CK
  Malware Analysis,
  Ethical Hacking,
  Automation(Scripting)
-  
-  ### 🌐**Platforms**:
+
+ ### 🌐**Platforms**:
  - Cisco networking academy,   Coursera, Letsdefend,Tryhackme
 
 
