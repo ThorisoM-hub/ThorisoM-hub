@@ -41,8 +41,6 @@ FIS graduate, [Aspiring Cybersecurity Professional](https://www.linkedin.com/in/
 
 ## 📺 YouTube Videos:
 
-Here is the updated table without **Video 2** and **Video 3**:
-
 | **Video 1** | **Video 4** | **Video 5** |
 |-------------|-------------|-------------|
 | [![NMAP Network Scanning](https://img.youtube.com/vi/BNfdUqlKXQ4/hqdefault.jpg)](https://www.youtube.com/watch?v=BNfdUqlKXQ4) | [![Cisco Networking Basics](https://img.youtube.com/vi/jOmqFi28hDI/hqdefault.jpg)](https://www.youtube.com/watch?v=jOmqFi28hDI) | [![Phishing Mail Alert Investigation](https://img.youtube.com/vi/erbS2OB38ww/hqdefault.jpg)](https://www.youtube.com/watch?v=erbS2OB38ww) |
