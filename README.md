@@ -60,7 +60,7 @@ FIS graduate, [Aspiring Cybersecurity Professional](https://www.linkedin.com/in/
 ![Thoriso's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThorisoM-hub&show_icons=true&theme=highcontrast&bg_color=003366,003366,FFD700)
 
 ---
-### 📚 Tools and Skills:
+## 🎯Skills:
 - **Languages**: Python, PowerShell, SQL,SPL
 - **Tools**: Cisco Packet Tracer, Wireshark,Active Directory,Virtualization tools,Splunk(SIEM),IPS/IDS, OSINT tools,AI Tools
 - **Operating Systems**:
@@ -79,7 +79,7 @@ ATT&CK
  Ethical Hacking,
  Automation(Scripting)
 
- ### 🌐**Platforms**:
+ ## 🌐**Platforms**:
  - Cisco networking academy,   Coursera, Letsdefend,Tryhackme
 
 
