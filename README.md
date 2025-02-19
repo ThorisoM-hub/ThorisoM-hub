@@ -42,12 +42,22 @@ FIS graduate, [Aspiring Cybersecurity Professional](https://www.linkedin.com/in/
 
 ## 📺 YouTube Videos:
 
-<!-- BEGIN YOUTUBE-CARDS -->
-<!-- END YOUTUBE-CARDS -->
-- **[SOC Fundamentals Hands-on Training - Letsdefend](https://www.youtube.com/watch?v=xixPMpCss7w&t=2s)**
-- **[Phishing Email Analysis Hands-on Training - Letsdefend](https://www.youtube.com/watch?v=pYIo-_UVD5o)**
-- **[Cisco Networking Basics: Creating a LAN - Packet Tracer](https://www.youtube.com/watch?v=jOmqFi28hDI&list=PLC0b3C1jAAo4DxLxsaXrt0SLeLSFQq-t-&index=1)**
-- **[Phishing mail alert investigation(malicious file attachment)](https://www.youtube.com/watch?v=erbS2OB38ww)**
+## 🎥 My YouTube Videos
+
+## 🎥 My YouTube Videos
+
+| Video 1 | Video 2 | Video 3 |
+|---------|---------|---------|
+| [![NMAP Network Scanning](https://img.youtube.com/vi/BNfdUqlKXQ4/hqdefault.jpg)](https://www.youtube.com/watch?v=BNfdUqlKXQ4) **Title:** NMAP Network Scanning | [![SOC Fundamentals Hands-on Training - Letsdefend](https://img.youtube.com/vi/xixPMpCss7w/hqdefault.jpg)](https://www.youtube.com/watch?v=xixPMpCss7w) **Title:** SOC Fundamentals Hands-on Training - Letsdefend | [![Phishing Email Analysis Hands-on Training - Letsdefend](https://img.youtube.com/vi/pYIo-_UVD5o/hqdefault.jpg)](https://www.youtube.com/watch?v=pYIo-_UVD5o) **Title:** Phishing Email Analysis Hands-on Training - Letsdefend |
+
+| Video 4 | Video 5 |
+|---------|---------|
+| [![Cisco Networking Basics: Creating a LAN - Packet Tracer](https://img.youtube.com/vi/jOmqFi28hDI/hqdefault.jpg)](https://www.youtube.com/watch?v=jOmqFi28hDI) **Title:** Cisco Networking Basics: Creating a LAN - Packet Tracer | [![Phishing mail alert investigation (malicious file attachment)](https://img.youtube.com/vi/erbS2OB38ww/hqdefault.jpg)](https://www.youtube.com/watch?v=erbS2OB38ww) **Title:** Phishing mail alert investigation (malicious file attachment) |
+
+
+
+
+
 
 ---
 
