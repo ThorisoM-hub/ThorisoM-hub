@@ -12,7 +12,7 @@ FIS graduate, [Aspiring Cybersecurity Professional](https://www.linkedin.com/in/
 
 ## 📃 Certifications:
 - **Google Cybersecurity Professional Certificate**
-
+[View certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/KL9AE5IXDLRB)
 ---
 
 ## 👨‍💻Projects:
