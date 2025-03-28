@@ -29,7 +29,7 @@ FIS graduate, [Aspiring Cybersecurity Professional](https://www.linkedin.com/in/
   -  Part 1: Analyze Your First Packet with With wireshark(Lab from Google Cybersecurity Certificate - Detection and Response Module)[View Project](https://github.com/ThorisoM-hub/Network-Traffic-Analysis-Wireshark/blob/main/README.md)
 
 - **[nmap-network-scanning]**:This project demonstrates network scanning and open port exploration using Nmap on Kali Linux. It covers IP address identification, device discovery, and advanced scanning techniques like SYN scan and service detection. The scan results show active devices and no open ports in the 1-1000 range.
-   [View Project](https://github.com/ThorisoM-hub/nmap-network-scanning.md)
+   [View Project](https://github.com/ThorisoM-hub/nmap-network-scanning)
 - **[Phishing Mail Alert Investigation and Incident Response]**: Investigated phishing mail that contains a malicious attachment file and used a playbook to respond to the threat.
   [View Project](https://github.com/ThorisoM-hub/phishing-mail-alert-investigation-of-malicious-file-attachment)  
 - **[Automated Vulnerability Scannning and Reporting System]**:An automated system for vulnerability scanning and report generation using OpenVAS  and  basic remediation tasks to enhance security.
