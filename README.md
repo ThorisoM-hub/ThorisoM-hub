@@ -1,7 +1,5 @@
-![image](https://github.com/user-attachments/assets/dace4e65-8377-4722-aee8-96d769c669a7)# Hi, I'm Thoriso! 👋
+# Hi, I'm Thoriso! 👋
 FIS graduate, [Aspiring Cybersecurity Professional](https://www.linkedin.com/in/thoriso-maditse-01ab84220/), [YouTuber](https://www.youtube.com/@Thoriso_Maditse)
-![Cartoon Me Looking at ](https://imgur.com/a/SMyA7bN.png)
- 
 ---
 
 ## 🏋️‍♂️ Trainings:
