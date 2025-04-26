@@ -23,10 +23,14 @@ FIS graduate, [Aspiring Cybersecurity Professional](https://www.linkedin.com/in/
 
 ## 📃 Certifications:
 - **Google Cybersecurity Professional Certificate**
+
 [View certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/KL9AE5IXDLRB)
 ---
 
-[![Google Cybersecurity Certificate](https://upload.wikimedia.org/wikipedia/commons/7/7e/Google_Cybersecurity_Certificate_Badge.png)](https://www.coursera.org/account/accomplishments/specialization/certificate/KL9AE5IXDLRB)
+[![Google Cybersecurity Certificate](https://raw.githubusercontent.com/ThorisoM-hub/ThorisoM-hub/refs/heads/main/IMG_0734.png)](https://www.coursera.org/account/accomplishments/specialization/certificate/KL9AE5IXDLRB)
+
+
+
 
 
 ## 👨‍💻Projects:
