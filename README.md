@@ -26,6 +26,9 @@ FIS graduate, [Aspiring Cybersecurity Professional](https://www.linkedin.com/in/
 [View certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/KL9AE5IXDLRB)
 ---
 
+[![Google Cybersecurity Certificate](https://upload.wikimedia.org/wikipedia/commons/7/7e/Google_Cybersecurity_Certificate_Badge.png)](https://www.coursera.org/account/accomplishments/specialization/certificate/KL9AE5IXDLRB)
+
+
 ## 👨‍💻Projects:
 - **[Google Cybersecurity Professional Certificate Portfolio Projects]**     
    •Drafting a Professional statement • Conducting a Security Audit • Analyzing network structure and security • Using Linux commands to manage file permissions • Applying filters to SQL 
