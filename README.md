@@ -1,6 +1,10 @@
 # Hi, I'm Thoriso! 👋
 FIS graduate, [Aspiring Cybersecurity Professional](https://www.linkedin.com/in/thoriso-maditse-01ab84220/), [YouTuber](https://www.youtube.com/@Thoriso_Maditse)
 ---
+<img src="https://raw.githubusercontent.com/ThorisoM-hub/ThorisoM-hub/main/IMG_0732.jpeg" alt="Description" width="400">
+
+
+
 
 ## 🏋️‍♂️ Trainings:
 - **Soc Fundamentals-Letsdefend** [View Badge](https://app.letsdefend.io/my-rewards/detail/b944c0e5-7584-4110-9cbd-dcd10107ab02)
