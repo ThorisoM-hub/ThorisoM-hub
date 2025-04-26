@@ -4,7 +4,7 @@ FIS graduate, [Aspiring Cybersecurity Professional](https://www.linkedin.com/in/
 <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/ThorisoM-hub/ThorisoM-hub/main/IMG_0732.jpeg" 
          alt="Description" 
-         style="max-height: 70px; width: auto; display: block; margin: 0 auto;">
+         style="max-height: 50px; width: auto; display: block; margin: 0 auto;">
 </div>
 
 
