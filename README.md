@@ -1,7 +1,9 @@
 # Hi, I'm Thoriso! 👋
 FIS graduate, [Aspiring Cybersecurity Professional](https://www.linkedin.com/in/thoriso-maditse-01ab84220/), [YouTuber](https://www.youtube.com/@Thoriso_Maditse)
 ---
-<img src="https://raw.githubusercontent.com/ThorisoM-hub/ThorisoM-hub/main/IMG_0732.jpeg" alt="Description" width="400">
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/ThorisoM-hub/ThorisoM-hub/main/IMG_0732.jpeg" alt="Description" style="max-width: 100%; height: auto; display: inline-block;">
+</div>
 
 
 
