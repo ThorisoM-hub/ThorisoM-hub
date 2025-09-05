@@ -32,7 +32,8 @@ FIS graduate, [Aspiring Cybersecurity Professional](https://www.linkedin.com/in/
 ## 👨‍💻Projects:
 - **[Google Cybersecurity Professional Certificate Portfolio Projects]**     
    •Drafting a Professional statement • Conducting a Security Audit • Analyzing network structure and security • Using Linux commands to manage file permissions • Applying filters to SQL 
-    queries • Identifying vulnerabilities for a small business • Documenting incidents with an incident handler’s journal •Update a file through Python Algorithm
+    queries [View Project](https://github.com/ThorisoM-hub/sql-filtering-project)
+  • Identifying vulnerabilities for a small business • Documenting incidents with an incident handler’s journal •Update a file through Python Algorithm
   [View Projects]()
    
 - **[Password Strength Checker Using Python]**: A Python tool to evaluate password strength.
