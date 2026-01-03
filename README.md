@@ -46,7 +46,11 @@ FIS graduate, [Aspiring Cybersecurity Professional](https://www.linkedin.com/in/
 - **[nmap-network-scanning]**:This project demonstrates network scanning and open port exploration using Nmap on Kali Linux. It covers IP address identification, device discovery, and advanced scanning techniques like SYN scan and service detection. The scan results show active devices and no open ports in the 1-1000 range.
    [View Project](https://github.com/ThorisoM-hub/nmap-network-scanning)
 - **[Phishing Mail Alert Investigation and Incident Response]**: Investigated phishing mail that contains a malicious attachment file and used a playbook to respond to the threat.
-  [View Project](https://github.com/ThorisoM-hub/phishing-mail-alert-investigation-of-malicious-file-attachment)  
+  [View Project](https://github.com/ThorisoM-hub/phishing-mail-alert-investigation-of-malicious-file-attachment)
+
+  - **[Secure Workstation Engineering & Hardware-Hardened Lab]**: Investigated hardware-level bottlenecks of a Celeron-based system and utilized SDLC and Systems Engineering methodologies to architect a secure, high-performance Ryzen workstation. Implemented Hardware Root of Trust (TPM 2.0), full-disk encryption, and network-level traffic protection via VPN Kill Switch to support advanced IAM and SOC virtualization labs.
+  [View Project](https://github.com/ThorisoM-hub/Secure-workstation-Build)
+
 - **[Automated Vulnerability Scannning and Reporting System]**:An automated system for vulnerability scanning and report generation using OpenVAS  and  basic remediation tasks to enhance security.
 [View Project](https://github.com/ThorisoM-hub/Automated-vuln-scanning/blob/main/README.md)
 - **[Active Directory Home Lab with PowerShell]**: A PowerShell-based project for managing Active Directory.
