@@ -47,8 +47,8 @@ FIS graduate, [Aspiring Cybersecurity Professional](https://www.linkedin.com/in/
    [View Project](https://github.com/ThorisoM-hub/nmap-network-scanning)
 - **[Phishing Mail Alert Investigation and Incident Response]**: Investigated phishing mail that contains a malicious attachment file and used a playbook to respond to the threat.
   [View Project](https://github.com/ThorisoM-hub/phishing-mail-alert-investigation-of-malicious-file-attachment)
-
-  - **[Secure Workstation Engineering & Hardware-Hardened Lab]**: Investigated hardware-level bottlenecks of a Celeron-based system and utilized SDLC and Systems Engineering methodologies to architect a secure, high-performance Ryzen workstation. Implemented Hardware Root of Trust (TPM 2.0), full-disk encryption, and network-level traffic protection via VPN Kill Switch to support advanced IAM and SOC virtualization labs.
+  
+ - **[Secure Workstation Engineering & Hardware-Hardened Lab]**: Investigated hardware-level bottlenecks of a Celeron-based system and utilized SDLC and Systems Engineering methodologies to architect a secure, high-performance Ryzen workstation. Implemented Hardware Root of Trust (TPM 2.0), full-disk encryption, and network-level traffic protection via VPN Kill Switch to support advanced IAM and SOC virtualization labs.
   [View Project](https://github.com/ThorisoM-hub/Secure-workstation-Build)
 
 - **[Automated Vulnerability Scannning and Reporting System]**:An automated system for vulnerability scanning and report generation using OpenVAS  and  basic remediation tasks to enhance security.
