@@ -8,7 +8,9 @@ FIS graduate, [Aspiring Cybersecurity Professional](https://www.linkedin.com/in/
 </div>
 
 ## 📊 GitHub Stats
-![Thoriso's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThorisoM-hub&show_icons=true&theme=highcontrast&bg_color=003366&title_color=FFD700&icon_color=FFD700)
+
+![Thoriso's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ThorisoM-hub&show_icons=true&theme=highcontrast&bg_color=003366&title_color=FFD700&icon_color=FFD700)
+
 
 
 
