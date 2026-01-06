@@ -23,17 +23,7 @@ FIS graduate, [Aspiring Cybersecurity Professional](https://www.linkedin.com/in/
 
 ## 📃 Certifications:
 
-<div style="display: flex; align-items: flex-start; gap: 10px;">
-  <div style="text-align: center;">
-    <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/KL9AE5IXDLRB">
-      <img src="https://raw.githubusercontent.com/ThorisoM-hub/ThorisoM-hub/refs/heads/main/IMG_0734.png" width="100"/>
-    </a>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/ThorisoM-hub/ThorisoM-hub/main/IMG_0716.png" width="100"/><br>
-    <sub>[In-Progress]</sub>
-  </div>
-</div>
+
 
 <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/KL9AE5IXDLRB">
   <img src="https://raw.githubusercontent.com/ThorisoM-hub/ThorisoM-hub/refs/heads/main/IMG_0734.png" width="100" align="top"/>
