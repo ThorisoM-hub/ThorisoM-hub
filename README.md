@@ -1,27 +1,7 @@
-# Hi there, I'm Thoriso 👋
-
-## ⚡ Cybersecurity Professional | IAM, SOC Analysis & Vulnerability Management | FIS Graduate
-
----
-
 ### 🛠️ Core Focus Areas
-[![](https://img.shields.io/badge/🛡️_Identity_Access_Management-Blue?style=for-the-badge&logo=auth0&logoColor=white)](#projects)
-[![](https://img.shields.io/badge/🔍_SOC_Operations-Red?style=for-the-badge&logo=splunk&logoColor=white)](#projects)
-[![](https://img.shields.io/badge/📉_Vulnerability_Management-Orange?style=for-the-badge&logo=rapid7&logoColor=white)](#projects)
-
----
-
-### 🔎 Professional Lab Mastery
-* **SOC Fundamentals:** [Link to Certification/Lab]
-* **Phishing Analysis:** [Link to Certification/Lab]
-* **Vulnerability Scanning:** [Link to Certification/Lab]
-
----
-
-### 🚀 Projects
-* **[Project Name 1]** - Brief description of your IAM/SOC work.
-* **[Project Name 2]** - Brief description of your Vulnerability Management work.
-
+[![](https://img.shields.io/badge/🛡️_Identity_Access_Management-007ACC?style=for-the-badge&logo=auth0&logoColor=white)](#projects)
+[![](https://img.shields.io/badge/🔍_SOC_Operations-E0232E?style=for-the-badge&logo=splunk&logoColor=white)](#projects)
+[![](https://img.shields.io/badge/📉_Vulnerability_Management-F78F1E?style=for-the-badge&logo=rapid7&logoColor=white)](#projects)
 
 ## 📊 GitHub Stats
 
