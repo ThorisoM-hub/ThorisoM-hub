@@ -1,16 +1,26 @@
-# Hi, I'm Thoriso! 👋
-FIS graduate, [Aspiring Cybersecurity Professional](https://www.linkedin.com/in/thoriso-maditse-01ab84220/), [YouTuber](https://www.youtube.com/@Thoriso_Maditse)
+# Hi there, I'm Thoriso 👋
+
+## ⚡ Cybersecurity Professional | IAM, SOC Analysis & Vulnerability Management | FIS Graduate
+
 ---
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/ThorisoM-hub/ThorisoM-hub/main/IMG_0732.jpeg" 
-         alt="Description" 
-         style="max-height: 50px; width: auto; display: block; margin: 0 auto;">
-</div>
 
 ### 🛠️ Core Focus Areas
-[![](https://img.shields.io/badge/Identity_Access_Management-Blue?style=for-the-badge&logo=auth0&logoColor=white)](#projects)
-[![](https://img.shields.io/badge/SOC_Operations-Red?style=for-the-badge&logo=splunk&logoColor=white)](#projects)
-[![](https://img.shields.io/badge/Vulnerability_Management-Orange?style=for-the-badge&logo=rapid7&logoColor=white)](#projects)
+[![](https://img.shields.io/badge/🛡️_Identity_Access_Management-Blue?style=for-the-badge&logo=auth0&logoColor=white)](#projects)
+[![](https://img.shields.io/badge/🔍_SOC_Operations-Red?style=for-the-badge&logo=splunk&logoColor=white)](#projects)
+[![](https://img.shields.io/badge/📉_Vulnerability_Management-Orange?style=for-the-badge&logo=rapid7&logoColor=white)](#projects)
+
+---
+
+### 🔎 Professional Lab Mastery
+* **SOC Fundamentals:** [Link to Certification/Lab]
+* **Phishing Analysis:** [Link to Certification/Lab]
+* **Vulnerability Scanning:** [Link to Certification/Lab]
+
+---
+
+### 🚀 Projects
+* **[Project Name 1]** - Brief description of your IAM/SOC work.
+* **[Project Name 2]** - Brief description of your Vulnerability Management work.
 
 
 ## 📊 GitHub Stats
