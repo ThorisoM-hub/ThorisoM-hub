@@ -7,6 +7,12 @@ FIS graduate, [Aspiring Cybersecurity Professional](https://www.linkedin.com/in/
          style="max-height: 50px; width: auto; display: block; margin: 0 auto;">
 </div>
 
+### 🛠️ Core Focus Areas
+[![](https://img.shields.io/badge/Identity_Access_Management-Blue?style=for-the-badge&logo=auth0&logoColor=white)](#projects)
+[![](https://img.shields.io/badge/SOC_Operations-Red?style=for-the-badge&logo=splunk&logoColor=white)](#projects)
+[![](https://img.shields.io/badge/Vulnerability_Management-Orange?style=for-the-badge&logo=rapid7&logoColor=white)](#projects)
+
+
 ## 📊 GitHub Stats
 
 ![Thoriso's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ThorisoM-hub&show_icons=true&theme=highcontrast&bg_color=003366&title_color=FFD700&icon_color=FFD700)
