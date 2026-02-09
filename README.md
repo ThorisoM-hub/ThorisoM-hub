@@ -1,9 +1,9 @@
 ## Hi there, I'm Thoriso 👋
+
+### Cybersecurity Professional | IAM, SOC Analysis & Vulnerability Management | FIS Graduate
 <img src="https://github.com/ThorisoM-hub/ThorisoM-hub/blob/main/2F0FF9DF-6BB5-4BE0-8113-7FDC6C50901A.png" width="200" style="display:block; margin: 0;" alt="Thoriso profile image"/>
 
-## ⚡ Cybersecurity Professional | IAM, SOC Analysis & Vulnerability Management | FIS Graduate
-
-### 🛠️ Core Focus Areas
+## 🛠️ Core Focus Areas
 [![](https://img.shields.io/badge/🛡️_Identity_Access_Management-007ACC?style=for-the-badge&logo=auth0&logoColor=white)](#projects)
 [![](https://img.shields.io/badge/🔍_SOC_Operations-E0232E?style=for-the-badge&logo=splunk&logoColor=white)](#projects)
 [![](https://img.shields.io/badge/📉_Vulnerability_Management-F78F1E?style=for-the-badge&logo=rapid7&logoColor=white)](#projects)
