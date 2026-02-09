@@ -1,5 +1,5 @@
 # Hi there, I'm Thoriso 👋
-
+<img src="https://github.com/ThorisoM-hub/ThorisoM-hub/blob/main/2F0FF9DF-6BB5-4BE0-8113-7FDC6C50901A.png" width="200" style="display:block; margin: 0;" alt="Thoriso profile image"/>
 ## ⚡ Cybersecurity Professional | IAM, SOC Analysis & Vulnerability Management | FIS Graduate
 
 ### 🛠️ Core Focus Areas
