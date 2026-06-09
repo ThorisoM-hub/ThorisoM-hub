@@ -42,7 +42,7 @@
    
 - **[Password Strength Checker Using Python]**: A Python tool to evaluate password strength.
   [View Project](https://github.com/ThorisoM-hub/Password-strength-checker)
-- **[Cisco Networking Basics: Creating a LAN - Packet Tracer]**: A project demonstrating the setup of a LAN using Packet Tracer.
+- **[Cisco Networking Basics: Creating a LAN - Packet Tracer]**:Configured and validated a functional LAN environment in Cisco Packet Tracer using IPv4 addressing, DHCP/​static IP configuration, connectivity testing (ping, ipconfig, tracert), and basic network troubleshooting across routers, switches, PCs, and printers..
    [View Project](https://github.com/ThorisoM-hub/Cisco-Networking-Basics-Creating-a-LAN---Cisco-Packet-Tracer/blob/main/README.md)
 - **[Network Traffic Analysis with Wireshark]**
   -  Part 1: Analyze Your First Packet with With wireshark(Lab from Google Cybersecurity Certificate - Detection and Response Module)[View Project](https://github.com/ThorisoM-hub/Network-Traffic-Analysis-Wireshark/blob/main/README.md)
