@@ -60,7 +60,7 @@
 - **[Active Directory Home Lab with PowerShell]**: A PowerShell-based project for managing Active Directory.
   [view project](https://github.com/ThorisoM-hub/-Active-Directory-Home-Lab-Using-PowerShell/blob/main/README.)
 
- -- **[THM-active-directory-basics-lab]**: •Simulated enterprise Active Directory administration within a Windows domain environment (THM.local) by managing Organizational Units (OUs), user accounts, password policies, and Group Policy Objects (GPOs).
+ - **[THM-active-directory-basics-lab]**: •Simulated enterprise Active Directory administration within a Windows domain environment (THM.local) by managing Organizational Units (OUs), user accounts, password policies, and Group Policy Objects (GPOs).
 •Performed identity and access management tasks using Active Directory Users & Computers (ADUC) and PowerShell, including password resets, delegated permissions, and policy enforcement following least privilege principles.
     [view project](https://github.com/ThorisoM-hub/THM-active-directory-basics-lab)
 - **[WAF-SIEM-Integration]**: Integrates ModSecurity (WAF) with Splunk (SIEM) for web application attack detection and real-time log monitoring. Simulate attacks like SQL Injection and XSS to test the system’s effectiveness, while gaining hands-on experience in incident response and security monitoring.
