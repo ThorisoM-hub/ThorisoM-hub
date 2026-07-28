@@ -55,6 +55,12 @@
  - **[Secure Workstation Engineering & Hardware-Hardened Lab]**: Investigated hardware-level bottlenecks of a Celeron-based system and utilized SDLC and Systems Engineering methodologies to architect a secure, high-performance Ryzen workstation. Implemented Hardware Root of Trust (TPM 2.0), full-disk encryption, and network-level traffic protection via VPN Kill Switch to support advanced IAM and SOC virtualization labs.
   [View Project](https://github.com/ThorisoM-hub/Secure-workstation-Build)
 
+- **[Enterprise Network Security Architecture | Cisco Packet Tracer]**: Designed and implemented a secure enterprise network for a simulated multi-department organization using Cisco Packet Tracer. The project demonstrates enterprise networking and cybersecurity concepts including VLAN segmentation, Router-on-a-Stick inter-VLAN routing, Access Control Lists (ACLs), DHCP automation, NAT/PAT, SSH secure device management, IPsec Site-to-Site VPN connectivity to a branch office, OSPF dynamic routing, wireless network segmentation, and a Defense-in-Depth security architecture.
+
+  **Technologies:** Cisco Packet Tracer, Cisco IOS, VLANs, Router-on-a-Stick, ACLs, DHCP, NAT/PAT, OSPF, IPsec Site-to-Site VPN, SSH, Wireless Networking, RBAC, Defense-in-Depth
+
+  **View Project:** https://github.com/ThorisoM-hub/enterprise-network-security-architecture
+
 - **[Automated Vulnerability Scannning and Reporting System]**:An automated system for vulnerability scanning and report generation using OpenVAS  and  basic remediation tasks to enhance security.
 [View Project](https://github.com/ThorisoM-hub/Automated-vuln-scanning/blob/main/README.md)
 - **[Active Directory Home Lab with PowerShell]**: A PowerShell-based project for managing Active Directory.
