@@ -1,7 +1,8 @@
 ## Hi, I'm Thoriso 👋
 ## 🧩 Technical Domains
 
-🖥️ IT Infrastructure | 🌐 Network Security | 🔐 IAM | 🔍 SOC Operations |  📉 Vulnerability Management |🛡️ Security Engineering  | ☁️ Cloud Security | 💻 Automation
+🖥️ IT Infrastructure | 🌐 Network Security | 🔐 IAM | 🔍 SOC Operations |  📉 Vulnerability Management |🛡️ Security Engineering | 
+            ☁️ Cloud Security | 💻 Automation
 
 ## 🎓 Education
  FIS (Information Systems) Graduate | Cybersecurity & Information Technology
@@ -99,8 +100,8 @@ Designed and implemented a secure enterprise network for a simulated multi-depar
   **Skills:** Packet Analysis • Network Monitoring • TCP/IP • Protocol Analysis • Threat Detection
 
   [View Project](https://github.com/ThorisoM-hub/Network-Traffic-Analysis-Wireshark/blob/main/README.md)
-- 🔍 Nmap Network Scanning
-  **[nmap-network-scanning]**
+  
+- 🔍 **[nmap-network-scanning]**
    Demonstrates network scanning and open-port exploration using Nmap on Kali Linux. Covers IP identification, host discovery, SYN scanning and service detection. Scan results identified active devices with no open ports in the 1–1000 range.
 
   **Technologies:** Nmap • Kali Linux
@@ -120,8 +121,8 @@ Managing enterprise identities, authentication, authorization and least privileg
 
 **Featured Projects**
 
-- 🏢 Active Directory Home Lab with PowerShell
-  *[Active Directory Home Lab with PowerShell]**: PowerShell-based Active Directory administration lab demonstrating enterprise identity management and Windows administration.
+- 🏢  *[Active Directory Home Lab with PowerShell]
+  **: PowerShell-based Active Directory administration lab demonstrating enterprise identity management and Windows administration.
 
   **Technologies:** Active Directory • PowerShell
 
@@ -138,8 +139,8 @@ Managing enterprise identities, authentication, authorization and least privileg
   **Technologies:** Active Directory • ADUC • PowerShell
 
   **Skills:** IAM • Active Directory • Password Management • Group Policy • Least Privilege • RBAC
-
-  [View Project](https://github.com/ThorisoM-hub/THM-active-directory-basics-lab)
+ [View Project](https://github.com/ThorisoM-hub/THM-active-directory-basics-lab)
+ 
   ---
 ## 🛡️ Security Operations (SOC)
 
@@ -283,18 +284,35 @@ Automating security, administration and operational tasks through scripting.
 > *"Cybersecurity is not just about defense, but also about understanding the ever-evolving landscape of threats and staying ahead."*
 
 ---
-
 # 🎯 Technical Skills
 
-## 💻 Programming & Scripting
+<table>
+
+<tr>
+
+<td valign="top" width="33%">
+
+### 💻 Programming & Scripting
+
 - Python
 - PowerShell
 - SQL
 - SPL (Splunk Processing Language)
 
----
+<br>
 
-## 🛠️ Security & IT Tools
+### 🖥️ Operating Systems
+
+- Windows
+- Linux
+- Kali Linux
+
+</td>
+
+<td valign="top" width="33%">
+
+### 🛠️ Security & IT Tools
+
 - Cisco Packet Tracer
 - Wireshark
 - Nmap
@@ -307,6 +325,7 @@ Automating security, administration and operational tasks through scripting.
 - VirtualBox
 - Sysmon
 - Windows Defender Firewall
+- Windows Administration
 - BitLocker
 - TPM 2.0
 - Secure Boot
@@ -317,17 +336,11 @@ Automating security, administration and operational tasks through scripting.
 - OSINT Tools
 - AI Tools
 
----
+</td>
 
-## 🖥️ Operating Systems
+<td valign="top" width="33%">
 
-- Windows
-- Linux
-- Kali Linux
-
----
-
-## 🌐 Networking
+### 🌐 Networking
 
 - TCP/IP
 - IPv4
@@ -344,9 +357,15 @@ Automating security, administration and operational tasks through scripting.
 - Wireless Networking
 - Network Troubleshooting
 
----
+</td>
 
-## 🔐 Identity & Access Management (IAM)
+</tr>
+
+<tr>
+
+<td valign="top" width="33%">
+
+### 🔐 Identity & Access Management (IAM)
 
 - Active Directory
 - User Provisioning
@@ -357,9 +376,11 @@ Automating security, administration and operational tasks through scripting.
 - Role-Based Access Control (RBAC)
 - Authentication & Authorization
 
----
+</td>
 
-## 🛡️ Security Operations (SOC)
+<td valign="top" width="33%">
+
+### 🛡️ Security Operations (SOC)
 
 - Security Monitoring
 - Threat Detection
@@ -374,9 +395,11 @@ Automating security, administration and operational tasks through scripting.
 - SIEM Operations
 - MITRE ATT&CK Mapping
 
----
+</td>
 
-## 📉 Vulnerability Management
+<td valign="top" width="33%">
+
+### 📉 Vulnerability Management
 
 - Vulnerability Assessment
 - Vulnerability Management
@@ -388,9 +411,15 @@ Automating security, administration and operational tasks through scripting.
 - Remediation
 - Secure Configuration
 
----
+</td>
 
-## ⚙️ Security Engineering
+</tr>
+
+<tr>
+
+<td valign="top" width="50%">
+
+### ⚙️ Security Engineering
 
 - Security Engineering
 - Systems Engineering
@@ -408,9 +437,11 @@ Automating security, administration and operational tasks through scripting.
 - Secure Infrastructure
 - Enterprise Security Architecture
 
----
+</td>
 
-## 📚 Security Frameworks & Standards
+<td valign="top" width="50%">
+
+### 📚 Security Frameworks & Standards
 
 - NIST Cybersecurity Framework (CSF)
 - MITRE ATT&CK
@@ -418,8 +449,12 @@ Automating security, administration and operational tasks through scripting.
 - GDPR
 - HIPAA
 
----
+</td>
 
+</tr>
+
+</table>
+---
 ## 🌐 Platforms
 
 - Cisco Networking Academy
@@ -427,9 +462,8 @@ Automating security, administration and operational tasks through scripting.
 - LetsDefend
 - TryHackMe
 - GitHub
-
----
-
+- Comptia
+ ---
 ## 📌 Current Learning
 
 - CompTIA Security+
