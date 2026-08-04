@@ -4,7 +4,7 @@
 🖥️ IT Infrastructure | 🌐 Network Security | 🛡️ Security Engineering | 🔍 SOC Operations | 🔐 IAM | 📉 Vulnerability Management | ☁️ Cloud Security | 💻 Automation
 
 ## 🎓 Education
- FIS Graduate | Cybersecurity & Information Technology
+ FIS(Information Systems) Graduate | Cybersecurity & Information Technology
  
 ## 🛠️ Core Focus Areas
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=IT+%26+Cybersecurity+Professional;Security+Engineering;SOC+Operations;Identity+%26+Access+Management;Vulnerability+Management)](https://git.io/typing-svg)
