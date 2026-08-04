@@ -45,7 +45,7 @@
 </div>
 
 ---
-# 📂 Project Categories
+# 📂 Projects
 
 ## 🖥️ IT Infrastructure & Desktop Support
 Designing, deploying, securing and supporting enterprise Windows environments, hardware, virtualization and IT infrastructure.
