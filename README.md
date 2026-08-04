@@ -4,10 +4,10 @@
 🖥️ IT Infrastructure | 🌐 Network Engineering | 🛡️ Security Engineering | 🔍 SOC Operations | 🔐 IAM | 📉 Vulnerability Management | ☁️ Cloud Security | 💻 Automation
 
 ## 🎓 Education
-
  FIS Graduate | Cybersecurity & Information Technology
+ 
 ## 🛠️ Core Focus Areas
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=IT+%26+Cybersecurity+Professional;Security+Engineering;SOC+Operations;Identity+%26+Access+Management;Vulnerability+Management)](https://git.io/typing-svg)
 [![](https://img.shields.io/badge/🛡️_Identity_Access_Management-007ACC?style=for-the-badge&logo=auth0&logoColor=white)](#projects)
 [![](https://img.shields.io/badge/🔍_SOC_Operations-E0232E?style=for-the-badge&logo=splunk&logoColor=white)](#projects)
 [![](https://img.shields.io/badge/📉_Vulnerability_Management-F78F1E?style=for-the-badge&logo=rapid7&logoColor=white)](#projects)
@@ -18,8 +18,8 @@
 [![](https://img.shields.io/badge/📊_Threat_Intelligence-2E7D32?style=for-the-badge&logo=thehive&logoColor=white)](#projects)
 
 ## 📊 GitHub Stats
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ThorisoM-hub&theme=matrix&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Stats](https://ghstats.dev/api/card?username=ThorisoM-hub&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ThorisoM-hub&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ## 🏋️‍♂️ Trainings:
 
 - **Soc Fundamentals-Letsdefend** [View Badge](https://app.letsdefend.io/my-rewards/detail/b944c0e5-7584-4110-9cbd-dcd10107ab02)
@@ -59,10 +59,6 @@ Designing, deploying, securing and supporting enterprise Windows environments, h
 - 🏢 Active Directory Home Lab with PowerShell
 - 🔐 THM Active Directory Basics Lab
 - 🖨️ Printer Troubleshooting *(Coming Soon)*
-
-**Core Skills**
-
-`Windows Administration` • `Desktop Support` • `Hardware Troubleshooting` • `System Deployment` • `TPM 2.0` • `Secure Boot` • `BitLocker` • `Virtualization` • `Active Directory` • `Group Policy` • `PowerShell` • `System Hardening`
 
 ---
 
