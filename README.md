@@ -18,8 +18,11 @@
 [![](https://img.shields.io/badge/📊_Threat_Intelligence-2E7D32?style=for-the-badge&logo=thehive&logoColor=white)](#projects)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://ghstats.dev/api/card?username=ThorisoM-hub&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com?user=ThorisoM-hub&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+<p align="center">
+  <img height=350" src="https://ghstats.dev/api/card?username=ThorisoM-hub&theme=tokyonight" />
+  <img height="165" src="https://streak-stats.demolab.com?user=ThorisoM-hub&theme=tokyonight&hide_border=true" />
+</p>
 ## 🏋️‍♂️ Trainings:
 
 - **Soc Fundamentals-Letsdefend** [View Badge](https://app.letsdefend.io/my-rewards/detail/b944c0e5-7584-4110-9cbd-dcd10107ab02)
