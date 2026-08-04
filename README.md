@@ -1,6 +1,8 @@
 ## Hi there, I'm Thoriso 👋
 ### IT & Cybersecurity Professional | IAM, SOC Analysis & Vulnerability Management | FIS Graduate
+
 ## 🛠️ Core Focus Areas
+
 [![](https://img.shields.io/badge/🛡️_Identity_Access_Management-007ACC?style=for-the-badge&logo=auth0&logoColor=white)](#projects)
 [![](https://img.shields.io/badge/🔍_SOC_Operations-E0232E?style=for-the-badge&logo=splunk&logoColor=white)](#projects)
 [![](https://img.shields.io/badge/📉_Vulnerability_Management-F78F1E?style=for-the-badge&logo=rapid7&logoColor=white)](#projects)
@@ -9,70 +11,280 @@
 
 ![Thoriso's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ThorisoM-hub&show_icons=true&theme=highcontrast&bg_color=003366&title_color=FFD700&icon_color=FFD700)
 
-
-
-
+---
 
 ## 🏋️‍♂️ Trainings:
+
 - **Soc Fundamentals-Letsdefend** [View Badge](https://app.letsdefend.io/my-rewards/detail/b944c0e5-7584-4110-9cbd-dcd10107ab02)
 - **Email Phishing Analysis-Letsdefend** [View Badge](https://app.letsdefend.io/my-rewards/detail/d253c2bd-3742-4678-8ec6-35aa9cfbeaec)
 - **Malware Analysis Fundamentals-Letsdefend** [View Badge](https://app.letsdefend.io/my-rewards/detail/8ddbd154deb743b0afe63298f883cf34)
 - **Cisco Networking Basics-Cisco NetAcad**: [View Badge](https://www.credly.com/badges/ffe6691f-fe40-47e1-87f5-f40d5cbc7c82/linked_in_profile)
-- **Introduction to splunk**: [View Cert](https://www.linkedin.com/in/thoriso-maditse-01ab84220/details/certifications/)
+- **Introduction to Splunk**: [View Cert](https://www.linkedin.com/in/thoriso-maditse-01ab84220/details/certifications/)
+
 ---
 
 ## 📃 Certifications:
 
-
-
 <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/KL9AE5IXDLRB">
   <img src="https://raw.githubusercontent.com/ThorisoM-hub/ThorisoM-hub/refs/heads/main/IMG_0734.png" width="100" align="top"/>
 </a>
+
 <div style="display: inline-block; text-align: center; vertical-align: top;">
   <img src="https://raw.githubusercontent.com/ThorisoM-hub/ThorisoM-hub/main/IMG_0716.png" width="100"/><br>
   <sub>[In-Progress]</sub>
 </div>
 
-## 👨‍💻Projects:
-- **[Google Cybersecurity Professional Certificate Portfolio Projects]**     
-   •Drafting a Professional statement • Conducting a Security Audit • Analyzing network structure and security • Using Linux commands to manage file permissions • Applying filters to SQL 
-    queries [View Project](https://github.com/ThorisoM-hub/sql-filtering-project)
-  • Identifying vulnerabilities for a small business • Documenting incidents with an incident handler’s journal •Update a file through Python Algorithm
-  [View Projects]()
-   
-- **[Password Strength Checker Using Python]**: A Python tool to evaluate password strength.
-  [View Project](https://github.com/ThorisoM-hub/Password-strength-checker)
-- **[Cisco Networking Basics: Creating a LAN - Packet Tracer]**:Configured and validated a functional LAN environment in Cisco Packet Tracer using IPv4 addressing, DHCP/​static IP configuration, connectivity testing (ping, ipconfig, tracert), and basic network troubleshooting across routers, switches, PCs, and printers..
-   [View Project](https://github.com/ThorisoM-hub/Cisco-Networking-Basics-Creating-a-LAN---Cisco-Packet-Tracer/blob/main/README.md)
-- **[Network Traffic Analysis with Wireshark]**
-  -  Part 1: Analyze Your First Packet with With wireshark(Lab from Google Cybersecurity Certificate - Detection and Response Module)[View Project](https://github.com/ThorisoM-hub/Network-Traffic-Analysis-Wireshark/blob/main/README.md)
+---
 
-- **[nmap-network-scanning]**:This project demonstrates network scanning and open port exploration using Nmap on Kali Linux. It covers IP address identification, device discovery, and advanced scanning techniques like SYN scan and service detection. The scan results show active devices and no open ports in the 1-1000 range.
-   [View Project](https://github.com/ThorisoM-hub/nmap-network-scanning)
-- **[Phishing Mail Alert Investigation and Incident Response]**: Investigated phishing mail that contains a malicious attachment file and used a playbook to respond to the threat.
+# 📂 Project Categories
+
+## 🖥️ IT Infrastructure & Desktop Support
+Designing, deploying, securing and supporting enterprise Windows environments, hardware, virtualization and IT infrastructure.
+
+**Featured Projects**
+- 🛡️ Secure Workstation Engineering & Hardware-Hardened Lab
+- 🏢 Active Directory Home Lab with PowerShell
+- 🔐 THM Active Directory Basics Lab
+- 🖨️ Printer Troubleshooting *(Coming Soon)*
+
+**Core Skills**
+
+`Windows Administration` • `Desktop Support` • `Hardware Troubleshooting` • `System Deployment` • `TPM 2.0` • `Secure Boot` • `BitLocker` • `Virtualization` • `Active Directory` • `Group Policy` • `PowerShell` • `System Hardening`
+
+---
+
+## 🌐 Networking & Network Security
+
+Designing secure enterprise networks using Cisco technologies and defense-in-depth security principles.
+
+**Featured Projects**
+
+- 🌐 Enterprise Network Security Architecture
+- 🖧 Cisco Networking Basics: Creating a LAN
+- 📡 Network Traffic Analysis with Wireshark
+- 🔍 Nmap Network Scanning
+
+**Core Skills**
+
+`Cisco IOS` • `TCP/IP` • `IPv4` • `VLANs` • `ACLs` • `Router-on-a-Stick` • `DHCP` • `NAT/PAT` • `OSPF` • `IPsec VPN` • `SSH` • `Network Troubleshooting`
+
+---
+
+## 🛡️ Security Operations (SOC)
+
+Hands-on SOC investigations, detection engineering, incident response and threat monitoring.
+
+**Featured Projects**
+
+- 📊 WAF-SIEM Integration
+- 📧 Phishing Mail Alert Investigation & Incident Response
+- 📡 Network Traffic Analysis with Wireshark
+- 🔍 Nmap Network Scanning
+- 🛡️ Google Cybersecurity Professional Certificate Portfolio
+
+**Core Skills**
+
+`Splunk` • `Sysmon` • `Windows Event Viewer` • `Incident Response` • `Threat Detection` • `Threat Hunting` • `Log Analysis` • `MITRE ATT&CK` • `Malware Analysis` • `SIEM`
+
+---
+
+## 🔐 Identity & Access Management (IAM)
+
+Managing enterprise identities, authentication, authorization and least privilege using Active Directory and PowerShell.
+
+**Featured Projects**
+
+- 🏢 Active Directory Home Lab with PowerShell
+- 🔐 THM Active Directory Basics Lab
+- 🛡️ Secure Workstation Engineering & Hardware-Hardened Lab
+
+**Core Skills**
+
+`Active Directory` • `PowerShell` • `ADUC` • `Organizational Units` • `Group Policy` • `Password Resets` • `User Provisioning` • `Least Privilege` • `RBAC`
+
+---
+
+## 📉 Vulnerability Management
+
+Identifying, assessing, validating and remediating vulnerabilities using enterprise security practices.
+
+**Featured Projects**
+
+- 🔍 Automated Vulnerability Scanning and Reporting System
+- 🛡️ Secure Workstation Engineering & Hardware-Hardened Lab
+- 🛡️ Google Cybersecurity Professional Certificate Portfolio
+
+**Core Skills**
+
+`OpenVAS` • `Vulnerability Assessment` • `Patch Management` • `Security Hardening` • `CIS Benchmarks` • `Risk Assessment` • `Remediation` • `Security Validation`
+
+---
+
+## ⚙️ Security Engineering
+
+Engineering secure systems through layered security controls, endpoint hardening, secure infrastructure and defense-in-depth architecture.
+
+**Featured Projects**
+
+- 🛡️ Secure Workstation Engineering & Hardware-Hardened Lab
+- 🌐 Enterprise Network Security Architecture
+- 📊 WAF-SIEM Integration
+- 🔍 Automated Vulnerability Scanning and Reporting System
+- 🏢 Active Directory Home Lab with PowerShell
+
+**Core Skills**
+
+`Security Engineering` • `Systems Engineering` • `SDLC` • `Defense-in-Depth` • `Zero Trust` • `Endpoint Security` • `Windows Security` • `Firewall Hardening` • `VPN Kill Switch` • `BitLocker` • `TPM 2.0` • `Secure Boot` • `Virtualization`
+
+---
+
+## 💻 Automation & Scripting
+
+Automating security, administration and operational tasks through scripting.
+
+**Featured Projects**
+
+- 🐍 Password Strength Checker Using Python
+- ⚡ Active Directory Home Lab with PowerShell
+- 🛡️ Google Cybersecurity Python Algorithm Project
+
+**Core Skills**
+
+`Python` • `PowerShell` • `SQL` • `SPL` • `Automation` • `Security Scripting`
+
+---
+
+## 👨‍💻 Projects:
+- **[Google Cybersecurity Professional Certificate Portfolio Projects]**     
+   • Drafting a Professional Statement  
+   • Conducting a Security Audit  
+   • Analyzing Network Structure and Security  
+   • Using Linux Commands to Manage File Permissions  
+   • Applying Filters to SQL Queries  
+   [View Project](https://github.com/ThorisoM-hub/sql-filtering-project)
+
+   • Identifying Vulnerabilities for a Small Business  
+   • Documenting Incidents with an Incident Handler's Journal  
+   • Updating a File Through a Python Algorithm  
+   [View Projects]()
+
+---
+
+- **[Password Strength Checker Using Python]**: A Python tool to evaluate password strength.
+
+  **Technology:** Python
+
+  **Skills:** Password Security • Input Validation • Python Programming • Secure Coding
+
+  [View Project](https://github.com/ThorisoM-hub/Password-strength-checker)
+
+---
+
+- **[Cisco Networking Basics: Creating a LAN - Packet Tracer]**: Configured and validated a functional LAN environment in Cisco Packet Tracer using IPv4 addressing, DHCP/static IP configuration, connectivity testing (`ping`, `ipconfig`, `tracert`), and basic network troubleshooting across routers, switches, PCs and printers.
+
+  **Technology:** Cisco Packet Tracer
+
+  **Skills:** LAN Configuration • IPv4 • DHCP • Static IP Addressing • Connectivity Testing • Network Troubleshooting
+
+  [View Project](https://github.com/ThorisoM-hub/Cisco-Networking-Basics-Creating-a-LAN---Cisco-Packet-Tracer/blob/main/README.md)
+
+---
+
+- **[Network Traffic Analysis with Wireshark]**
+
+  **Part 1:** Analyze Your First Packet with Wireshark (Google Cybersecurity Certificate – Detection & Response Module)
+
+  **Technology:** Wireshark
+
+  **Skills:** Packet Analysis • Network Monitoring • TCP/IP • Protocol Analysis • Threat Detection
+
+  [View Project](https://github.com/ThorisoM-hub/Network-Traffic-Analysis-Wireshark/blob/main/README.md)
+
+---
+
+- **[nmap-network-scanning]**: Demonstrates network scanning and open-port exploration using Nmap on Kali Linux. Covers IP identification, host discovery, SYN scanning and service detection. Scan results identified active devices with no open ports in the 1–1000 range.
+
+  **Technologies:** Nmap • Kali Linux
+
+  **Skills:** Network Enumeration • Port Scanning • Service Discovery • Reconnaissance • TCP/IP
+
+  [View Project](https://github.com/ThorisoM-hub/nmap-network-scanning)
+
+---
+
+- **[Phishing Mail Alert Investigation and Incident Response]**: Investigated a phishing email containing a malicious attachment and followed an incident response playbook to validate containment and remediation procedures.
+
+  **Technologies:** Incident Response Playbooks
+
+  **Skills:** Email Security • Phishing Analysis • Incident Response • Threat Investigation • IOC Identification
+
   [View Project](https://github.com/ThorisoM-hub/phishing-mail-alert-investigation-of-malicious-file-attachment)
-  
- - **[Secure Workstation Engineering & Hardware-Hardened Lab]**: Investigated hardware-level bottlenecks of a Celeron-based system and utilized SDLC and Systems Engineering methodologies to architect a secure, high-performance Ryzen workstation. Implemented Hardware Root of Trust (TPM 2.0), full-disk encryption, and network-level traffic protection via VPN Kill Switch to support advanced IAM and SOC virtualization labs.
+
+---
+
+- **[Secure Workstation Engineering & Hardware-Hardened Lab]**: Investigated hardware-level bottlenecks of a Celeron-based system and utilized SDLC and Systems Engineering methodologies to architect a secure, high-performance Ryzen workstation. Implemented Hardware Root of Trust (TPM 2.0), Secure Boot, BitLocker encryption, VPN Kill Switch, Windows Firewall hardening and virtualization to support enterprise IAM, SOC and Vulnerability Management labs.
+
+  **Technologies:** Windows 11 Pro • BitLocker • TPM 2.0 • Secure Boot • VMware • VirtualBox • Sysmon • NextDNS • Windows Defender Firewall
+
+  **Skills:** Security Engineering • Endpoint Hardening • Systems Engineering • SDLC • Defense-in-Depth • Zero Trust • Virtualization • IAM • SOC Operations • Vulnerability Management • Windows Security
+
   [View Project](https://github.com/ThorisoM-hub/Secure-workstation-Build)
 
-- **[Enterprise Network Security Architecture | Cisco Packet Tracer]**: Designed and implemented a secure enterprise network for a simulated multi-department organization using Cisco Packet Tracer. The project demonstrates enterprise networking and cybersecurity concepts including VLAN segmentation, Router-on-a-Stick inter-VLAN routing, Access Control Lists (ACLs), DHCP automation, NAT/PAT, SSH secure device management, IPsec Site-to-Site VPN connectivity to a branch office, OSPF dynamic routing, wireless network segmentation, and a Defense-in-Depth security architecture.
+---
 
-  **Technologies:** Cisco Packet Tracer, Cisco IOS, VLANs, Router-on-a-Stick, ACLs, DHCP, NAT/PAT, OSPF, IPsec Site-to-Site VPN, SSH, Wireless Networking, RBAC, Defense-in-Depth
+- **[Enterprise Network Security Architecture | Cisco Packet Tracer]**: Designed and implemented a secure enterprise network for a simulated multi-department organization. Demonstrates VLAN segmentation, Router-on-a-Stick inter-VLAN routing, ACLs, DHCP automation, NAT/PAT, SSH management, IPsec Site-to-Site VPN, OSPF routing, wireless segmentation and Defense-in-Depth architecture.
+
+  **Technologies:** Cisco Packet Tracer • Cisco IOS • VLANs • ACLs • DHCP • NAT/PAT • OSPF • IPsec VPN • SSH • RBAC
+
+  **Skills:** Network Security • Enterprise Networking • Cisco Administration • Secure Network Design • Defense-in-Depth • Routing & Switching
 
   **View Project:** https://github.com/ThorisoM-hub/enterprise-network-security-architecture
 
-- **[Automated Vulnerability Scannning and Reporting System]**:An automated system for vulnerability scanning and report generation using OpenVAS  and  basic remediation tasks to enhance security.
-[View Project](https://github.com/ThorisoM-hub/Automated-vuln-scanning/blob/main/README.md)
-- **[Active Directory Home Lab with PowerShell]**: A PowerShell-based project for managing Active Directory.
-  [view project](https://github.com/ThorisoM-hub/-Active-Directory-Home-Lab-Using-PowerShell/blob/main/README.)
-
- - **[THM-active-directory-basics-lab]**: •Simulated enterprise Active Directory administration within a Windows domain environment (THM.local) by managing Organizational Units (OUs), user accounts, password policies, and Group Policy Objects (GPOs).
-•Performed identity and access management tasks using Active Directory Users & Computers (ADUC) and PowerShell, including password resets, delegated permissions, and policy enforcement following least privilege principles.
-    [view project](https://github.com/ThorisoM-hub/THM-active-directory-basics-lab)
-- **[WAF-SIEM-Integration]**: Integrates ModSecurity (WAF) with Splunk (SIEM) for web application attack detection and real-time log monitoring. Simulate attacks like SQL Injection and XSS to test the system’s effectiveness, while gaining hands-on experience in incident response and security monitoring.
-[view Project](https://github.com/ThorisoM-hub/WAF-SIEM-Integration)
 ---
 
+- **[Automated Vulnerability Scanning and Reporting System]**: Automated vulnerability scanning and report generation using OpenVAS with remediation tasks to improve endpoint security and vulnerability management processes.
+
+  **Technologies:** OpenVAS
+
+  **Skills:** Vulnerability Assessment • Vulnerability Management • Risk Analysis • Security Reporting • Remediation
+
+  [View Project](https://github.com/ThorisoM-hub/Automated-vuln-scanning/blob/main/README.md)
+
+---
+
+- **[Active Directory Home Lab with PowerShell]**: PowerShell-based Active Directory administration lab demonstrating enterprise identity management and Windows administration.
+
+  **Technologies:** Active Directory • PowerShell
+
+  **Skills:** User Management • Group Policy • Active Directory Administration • IAM • Windows Server Administration
+
+  [View Project](https://github.com/ThorisoM-hub/-Active-Directory-Home-Lab-Using-PowerShell/blob/main/README.)
+
+---
+
+- **[THM-active-directory-basics-lab]**
+
+  • Simulated enterprise Active Directory administration within a Windows domain (THM.local) by managing Organizational Units (OUs), user accounts, password policies and Group Policy Objects (GPOs).
+
+  • Performed identity and access management tasks using ADUC and PowerShell including password resets, delegated permissions and least privilege enforcement.
+
+  **Technologies:** Active Directory • ADUC • PowerShell
+
+  **Skills:** IAM • Active Directory • Password Management • Group Policy • Least Privilege • RBAC
+
+  [View Project](https://github.com/ThorisoM-hub/THM-active-directory-basics-lab)
+
+---
+
+- **[WAF-SIEM-Integration]**: Integrates ModSecurity (WAF) with Splunk (SIEM) for web application attack detection and centralized log monitoring. Simulates SQL Injection and Cross-Site Scripting (XSS) attacks to validate detection and incident response workflows.
+
+  **Technologies:** ModSecurity • Splunk
+
+  **Skills:** SIEM • WAF • Log Analysis • Threat Detection • SQL Injection • XSS • Incident Response • Security Monitoring
+
+  [View Project](https://github.com/ThorisoM-hub/WAF-SIEM-Integration)
+
+---
 ## 📺 YouTube Videos:
 
 | **Video 1** | **Video 2** | **Video 3** |
@@ -80,41 +292,191 @@
 | [![NMAP Network Scanning](https://img.youtube.com/vi/BNfdUqlKXQ4/hqdefault.jpg)](https://www.youtube.com/watch?v=BNfdUqlKXQ4) | [![Cisco Networking Basics](https://img.youtube.com/vi/jOmqFi28hDI/hqdefault.jpg)](https://www.youtube.com/watch?v=jOmqFi28hDI) | [![Phishing Mail Alert Investigation](https://img.youtube.com/vi/erbS2OB38ww/hqdefault.jpg)](https://www.youtube.com/watch?v=erbS2OB38ww) |
 | **NMAP Network Scanning** | **Cisco Networking Basics** | **Phishing Mail Alert Investigation** |
 
-
 ---
 
 ## 🤳 Connect with me:
-[![YouTube](https://img.shields.io/badge/YouTube-@Thoriso_Maditse-red)](https://www.youtube.com/@Thoriso_Maditse)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thoriso_Maditse-blue)](https://www.linkedin.com/in/thoriso-maditse-01ab84220/)
+
+[![YouTube](https://img.shields.io/badge/YouTube-@Thoriso_Maditse-red)](https://www.youtube.com/@Thoriso_Maditse)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thoriso_Maditse-blue)](https://www.linkedin.com/in/thoriso-maditse-01ab84220/)
 
 ---
 
-> "Cybersecurity is not just about defense, but also about understanding the ever-evolving landscape of threats and staying ahead."
+> *"Cybersecurity is not just about defense, but also about understanding the ever-evolving landscape of threats and staying ahead."*
 
 ---
-## 🎯 Skills:
-- **Languages**: Python, PowerShell, SQL,SPL
-- **Tools**: Cisco Packet Tracer, Wireshark,Active Directory,Virtualization tools,Splunk(SIEM),IPS/IDS, OSINT tools,AI Tools
-- **Operating Systems**:
-  Linux,Windows
-- **Industry Knowledge**: HIPPA,GDPR,PCI DSS,NIST CSF,MITRE
-ATT&CK  
-- **Areas of Expertise:**
- Vulnerability Assessment,
- Vulnerability Management,
- Incident Response,
- Threat Detection,
- Digital Forensics,
- Network Security,
- Security Operations,
- Malware Analysis,
- Ethical Hacking,
- Automation(Scripting)
 
- ## 🌐 **Platforms**:
- - Cisco networking academy,   Coursera, Letsdefend,Tryhackme
+# 🎯 Technical Skills
 
+## 💻 Programming & Scripting
+- Python
+- PowerShell
+- SQL
+- SPL (Splunk Processing Language)
 
-##STYLERIZED
+---
+
+## 🛠️ Security & IT Tools
+- Cisco Packet Tracer
+- Wireshark
+- Nmap
+- Splunk (SIEM)
+- OpenVAS
+- ModSecurity (WAF)
+- Active Directory
+- Active Directory Users & Computers (ADUC)
+- VMware
+- VirtualBox
+- Sysmon
+- Windows Defender Firewall
+- BitLocker
+- TPM 2.0
+- Secure Boot
+- NextDNS
+- VPN Technologies
+- Virtualization Technologies
+- IPS/IDS
+- OSINT Tools
+- AI Tools
+
+---
+
+## 🖥️ Operating Systems
+
+- Windows
+- Linux
+- Kali Linux
+
+---
+
+## 🌐 Networking
+
+- TCP/IP
+- IPv4
+- DHCP
+- DNS
+- NAT/PAT
+- VLANs
+- ACLs
+- OSPF
+- Router-on-a-Stick
+- IPsec Site-to-Site VPN
+- SSH
+- Network Segmentation
+- Wireless Networking
+- Network Troubleshooting
+
+---
+
+## 🔐 Identity & Access Management (IAM)
+
+- Active Directory
+- User Provisioning
+- Password Resets
+- Group Policy (GPO)
+- Organizational Units (OU)
+- Least Privilege (PoLP)
+- Role-Based Access Control (RBAC)
+- Authentication & Authorization
+
+---
+
+## 🛡️ Security Operations (SOC)
+
+- Security Monitoring
+- Threat Detection
+- Threat Hunting
+- Incident Response
+- Log Analysis
+- Windows Event Viewer
+- Sysmon
+- IOC Analysis
+- Malware Analysis
+- Phishing Investigation
+- SIEM Operations
+- MITRE ATT&CK Mapping
+
+---
+
+## 📉 Vulnerability Management
+
+- Vulnerability Assessment
+- Vulnerability Management
+- Patch Management
+- Risk Assessment
+- Security Hardening
+- CIS Benchmarks
+- Security Validation
+- Remediation
+- Secure Configuration
+
+---
+
+## ⚙️ Security Engineering
+
+- Security Engineering
+- Systems Engineering
+- Secure Workstation Design
+- Endpoint Hardening
+- Defense-in-Depth
+- Zero Trust
+- Hardware Root of Trust
+- TPM 2.0
+- Secure Boot
+- BitLocker
+- VPN Kill Switch
+- Windows Firewall Hardening
+- SDLC
+- Secure Infrastructure
+- Enterprise Security Architecture
+
+---
+
+## 📚 Security Frameworks & Standards
+
+- NIST Cybersecurity Framework (CSF)
+- MITRE ATT&CK
+- PCI DSS
+- GDPR
+- HIPAA
+
+---
+
+## 🌐 Platforms
+
+- Cisco Networking Academy
+- Coursera
+- LetsDefend
+- TryHackMe
+- GitHub
+
+---
+
+## 📌 Current Learning
+
+- CompTIA Security+
+- CompTIA Network+
+- Microsoft Entra ID
+- Microsoft Defender
+- Microsoft Sentinel
+- Azure Fundamentals
+
+---
+
+## 🎯 Career Interests
+
+- Security Engineer
+- Associate Security Engineer
+- SOC Analyst (Tier 1)
+- Vulnerability Management Analyst
+- IAM Analyst
+- IT Support Technician
+- Desktop Support Engineer
+- Systems Administrator
+
+---
+
+## STYLERIZED
+
 <img src="https://github.com/ThorisoM-hub/ThorisoM-hub/blob/main/2F0FF9DF-6BB5-4BE0-8113-7FDC6C50901A.png" width="200" style="display:block; margin: 0;" alt="Thoriso profile image"/>
 
 <!--
