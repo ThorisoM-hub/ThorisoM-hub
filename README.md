@@ -51,8 +51,8 @@
 Designing, deploying, securing and supporting enterprise Windows environments, hardware, virtualization and IT infrastructure.
 
 **Featured Projects**
-- 🛡️ Secure Workstation Engineering & Hardware-Hardened Lab
-   **[Secure Workstation Engineering & Hardware-Hardened Lab]**: Investigated hardware-level bottlenecks of a Celeron-based system and utilized SDLC and Systems Engineering methodologies to architect a secure, high-performance Ryzen workstation. Implemented Hardware Root of Trust (TPM 2.0), Secure Boot, BitLocker encryption, VPN Kill Switch, Windows Firewall hardening and virtualization to support enterprise IAM, SOC and Vulnerability Management labs.
+- 🛡️ **[Secure Workstation Engineering & Hardware-Hardened lab]**
+ Investigated hardware-level bottlenecks of a Celeron-based system and utilized SDLC and Systems Engineering methodologies to architect a secure, high-performance Ryzen workstation. Implemented Hardware Root of Trust (TPM 2.0), Secure Boot, BitLocker encryption, VPN Kill Switch, Windows Firewall hardening and virtualization to support enterprise IAM, SOC and Vulnerability Management labs.
 
   **Technologies:** Windows 11 Pro • BitLocker • TPM 2.0 • Secure Boot • VMware • VirtualBox • Sysmon • NextDNS • Windows Defender Firewall
 
@@ -71,16 +71,16 @@ Designing secure enterprise networks using Cisco technologies and defense-in-dep
 
 **Featured Projects**
 
-- 🌐 Enterprise Network Security Architecture
-   **[Enterprise Network Security Architecture | Cisco Packet Tracer]**: Designed and implemented a secure enterprise network for a simulated multi-department organization. Demonstrates VLAN segmentation, Router-on-a-Stick inter-VLAN routing, ACLs, DHCP automation, NAT/PAT, SSH management, IPsec Site-to-Site VPN, OSPF routing, wireless segmentation and Defense-in-Depth architecture.
+- 🌐 **[Enterprise Network Security Architecture | Cisco Packet Tracer]**
+Designed and implemented a secure enterprise network for a simulated multi-department organization. Demonstrates VLAN segmentation, Router-on-a-Stick inter-VLAN routing, ACLs, DHCP automation, NAT/PAT, SSH management,  IPsec Site-to-Site VPN, OSPF routing, wireless segmentation and Defense-in-Depth architecture.
 
   **Technologies:** Cisco Packet Tracer • Cisco IOS • VLANs • ACLs • DHCP • NAT/PAT • OSPF • IPsec VPN • SSH • RBAC
 
   **Skills:** Network Security • Enterprise Networking • Cisco Administration • Secure Network Design • Defense-in-Depth • Routing & Switching
 
   **View Project:** https://github.com/ThorisoM-hub/enterprise-network-security-architecture
-- 🖧 Cisco Networking Basics: Creating a LAN
--  **[Cisco Networking Basics: Creating a LAN - Packet Tracer]**: Configured and validated a functional LAN environment in Cisco Packet Tracer using IPv4 addressing, DHCP/static IP configuration, connectivity testing (`ping`, `ipconfig`, `tracert`), and basic network troubleshooting across routers, switches, PCs and printers.
+- 🖧 **[Cisco Networking Basics: Creating a LAN - Packet Tracer]**
+   Configured and validated a functional LAN environment in Cisco Packet Tracer using IPv4 addressing, DHCP/static IP configuration, connectivity testing (`ping`, `ipconfig`, `tracert`), and basic network troubleshooting across routers, switches, PCs and printers.
 
   **Technology:** Cisco Packet Tracer
 
@@ -99,7 +99,8 @@ Designing secure enterprise networks using Cisco technologies and defense-in-dep
 
   [View Project](https://github.com/ThorisoM-hub/Network-Traffic-Analysis-Wireshark/blob/main/README.md)
 - 🔍 Nmap Network Scanning
-  **[nmap-network-scanning]**: Demonstrates network scanning and open-port exploration using Nmap on Kali Linux. Covers IP identification, host discovery, SYN scanning and service detection. Scan results identified active devices with no open ports in the 1–1000 range.
+  **[nmap-network-scanning]**
+   Demonstrates network scanning and open-port exploration using Nmap on Kali Linux. Covers IP identification, host discovery, SYN scanning and service detection. Scan results identified active devices with no open ports in the 1–1000 range.
 
   **Technologies:** Nmap • Kali Linux
 
