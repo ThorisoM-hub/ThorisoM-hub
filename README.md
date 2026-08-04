@@ -20,7 +20,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height=350" src="https://ghstats.dev/api/card?username=ThorisoM-hub&theme=tokyonight" />
+  <img height=300" src="https://ghstats.dev/api/card?username=ThorisoM-hub&theme=tokyonight" />
   <img height="165" src="https://streak-stats.demolab.com?user=ThorisoM-hub&theme=tokyonight&hide_border=true" />
 </p>
 ## 🏋️‍♂️ Trainings:
