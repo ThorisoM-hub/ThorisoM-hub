@@ -112,7 +112,33 @@ Designing secure enterprise networks using Cisco technologies and defense-in-dep
 `Cisco IOS` • `TCP/IP` • `IPv4` • `VLANs` • `ACLs` • `Router-on-a-Stick` • `DHCP` • `NAT/PAT` • `OSPF` • `IPsec VPN` • `SSH` • `Network Troubleshooting`
 
 ---
+## 🔐 Identity & Access Management (IAM)
 
+Managing enterprise identities, authentication, authorization and least privilege using Active Directory and PowerShell.
+
+**Featured Projects**
+
+- 🏢 Active Directory Home Lab with PowerShell
+  *[Active Directory Home Lab with PowerShell]**: PowerShell-based Active Directory administration lab demonstrating enterprise identity management and Windows administration.
+
+  **Technologies:** Active Directory • PowerShell
+
+  **Skills:** User Management • Group Policy • Active Directory Administration • IAM • Windows Server Administration
+
+  [View Project](https://github.com/ThorisoM-hub/-Active-Directory-Home-Lab-Using-PowerShell/blob/main/README.)
+
+- 🔐 **[THM-active-directory-basics-lab]**
+ 
+  • Simulated enterprise Active Directory administration within a Windows domain (THM.local) by managing Organizational Units (OUs), user accounts, password policies and Group Policy Objects (GPOs).
+
+  • Performed identity and access management tasks using ADUC and PowerShell including password resets, delegated permissions and least privilege enforcement.
+
+  **Technologies:** Active Directory • ADUC • PowerShell
+
+  **Skills:** IAM • Active Directory • Password Management • Group Policy • Least Privilege • RBAC
+
+  [View Project](https://github.com/ThorisoM-hub/THM-active-directory-basics-lab)
+  ---
 ## 🛡️ Security Operations (SOC)
 
 Hands-on SOC investigations, detection engineering, incident response and threat monitoring.
@@ -147,36 +173,7 @@ Hands-on SOC investigations, detection engineering, incident response and threat
 
 ---
 
-## 🔐 Identity & Access Management (IAM)
 
-Managing enterprise identities, authentication, authorization and least privilege using Active Directory and PowerShell.
-
-**Featured Projects**
-
-- 🏢 Active Directory Home Lab with PowerShell
-  *[Active Directory Home Lab with PowerShell]**: PowerShell-based Active Directory administration lab demonstrating enterprise identity management and Windows administration.
-
-  **Technologies:** Active Directory • PowerShell
-
-  **Skills:** User Management • Group Policy • Active Directory Administration • IAM • Windows Server Administration
-
-  [View Project](https://github.com/ThorisoM-hub/-Active-Directory-Home-Lab-Using-PowerShell/blob/main/README.)
-
-- 🔐 THM Active Directory Basics Lab
-
-- **[THM-active-directory-basics-lab]**
-  **[THM-active-directory-basics-lab]**
-
-  • Simulated enterprise Active Directory administration within a Windows domain (THM.local) by managing Organizational Units (OUs), user accounts, password policies and Group Policy Objects (GPOs).
-
-  • Performed identity and access management tasks using ADUC and PowerShell including password resets, delegated permissions and least privilege enforcement.
-
-  **Technologies:** Active Directory • ADUC • PowerShell
-
-  **Skills:** IAM • Active Directory • Password Management • Group Policy • Least Privilege • RBAC
-
-  [View Project](https://github.com/ThorisoM-hub/THM-active-directory-basics-lab)
-  
 **Core Skills**
 
 `Active Directory` • `PowerShell` • `ADUC` • `Organizational Units` • `Group Policy` • `Password Resets` • `User Provisioning` • `Least Privilege` • `RBAC`
