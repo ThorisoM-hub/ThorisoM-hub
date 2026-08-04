@@ -1,7 +1,7 @@
 ## Hi, I'm Thoriso 👋
 ## 🧩 Technical Domains
 
-🖥️ IT Infrastructure | 🌐 Network Security | 🛡️ Security Engineering | 🔍 SOC Operations | 🔐 IAM | 📉 Vulnerability Management | ☁️ Cloud Security | 💻 Automation
+🖥️ IT Infrastructure | 🌐 Network Security | 🔐 IAM | 🔍 SOC Operations |  📉 Vulnerability Management |🛡️ Security Engineering  | ☁️ Cloud Security | 💻 Automation
 
 ## 🎓 Education
  FIS (Information Systems) Graduate | Cybersecurity & Information Technology
