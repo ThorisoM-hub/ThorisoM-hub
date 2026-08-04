@@ -78,8 +78,9 @@ Designed and implemented a secure enterprise network for a simulated multi-depar
 
   **Skills:** Network Security • Enterprise Networking • Cisco Administration • Secure Network Design • Defense-in-Depth • Routing & Switching
 
-  **View Project:** https://github.com/ThorisoM-hub/enterprise-network-security-architecture
+   [View Project](https://github.com/ThorisoM-hub/enterprise-network-security-architecture)
 - 🖧 **[Cisco Networking Basics: Creating a LAN - Packet Tracer]**
+- 
    Configured and validated a functional LAN environment in Cisco Packet Tracer using IPv4 addressing, DHCP/static IP configuration, connectivity testing (`ping`, `ipconfig`, `tracert`), and basic network troubleshooting across routers, switches, PCs and printers.
 
   **Technology:** Cisco Packet Tracer
