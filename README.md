@@ -454,7 +454,9 @@ Automating security, administration and operational tasks through scripting.
 </tr>
 
 </table>
+
 ---
+
 ## 🌐 Platforms
 
 - Cisco Networking Academy
