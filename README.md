@@ -24,6 +24,8 @@
   <img height=300" src="https://ghstats.dev/api/card?username=ThorisoM-hub&theme=tokyonight" />
   <img height="165" src="https://streak-stats.demolab.com?user=ThorisoM-hub&theme=tokyonight&hide_border=true" />
 </p>
+
+---
 ## 🏋️‍♂️ Trainings:
 
 - **Soc Fundamentals-Letsdefend** [View Badge](https://app.letsdefend.io/my-rewards/detail/b944c0e5-7584-4110-9cbd-dcd10107ab02)
