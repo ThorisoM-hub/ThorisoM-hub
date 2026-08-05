@@ -159,15 +159,21 @@ Hands-on SOC investigations, detection engineering, incident response and threat
 
   [View Project](https://github.com/ThorisoM-hub/WAF-SIEM-Integration)
 
-- 📧 Phishing Mail Alert Investigation & Incident Response
-  **[Phishing Mail Alert Investigation and Incident Response]**: Investigated a phishing email containing a malicious attachment and followed an incident response playbook to validate containment and remediation procedures.
+- 📧 **[Phishing Mail Alert Investigation and Incident Response]**: Investigated a phishing email containing a malicious attachment and followed an incident response playbook to validate containment and remediation procedures.
 
   **Technologies:** Incident Response Playbooks
 
   **Skills:** Email Security • Phishing Analysis • Incident Response • Threat Investigation • IOC Identification
 
   [View Project](https://github.com/ThorisoM-hub/phishing-mail-alert-investigation-of-malicious-file-attachment)
+  
+- 🔍 **[Applying Filters to SQL Queries]**:Applied SQL queries and filtering techniques to retrieve, analyze, and investigate security-related data. Used SQL operators to identify relevant records, support security investigations, and improve the efficiency of security data analysis.
 
+  **Technologies:** SQL • Relational Databases • SQL Filtering • Query Operators
+
+  **Skills:** SQL Querying • Security Data Analysis • Log Analysis • Data Filtering • Threat Investigation • Access Monitoring • Security Operations • Analytical Thinking
+
+ **[View Project](https://github.com/ThorisoM-hub/sql-filtering-project)**
 - 📡 Network Traffic Analysis with Wireshark
 - 🔍 Nmap Network Scanning
 - 🛡️ Google Cybersecurity Professional Certificate Portfolio
@@ -259,12 +265,12 @@ Automating security, administration and operational tasks through scripting.
 - Conducting a Security Audit
 - Analyzing Network Structure and Security
 - Using Linux Commands to Manage File Permissions
-- Applying Filters to SQL Queries
+- Applying Filters to SQL Queries**[View Project](https://github.com/ThorisoM-hub/sql-filtering-project)**
 - Identifying Vulnerabilities for a Small Business
 - Documenting Incidents with an Incident Handler's Journal
 - Updating a File Through a Python Algorithm
 
-🔗 **[View Portfolio Projects](https://github.com/ThorisoM-hub/sql-filtering-project)**
+🔗 
 
 ---
 ## 📺 YouTube Videos:
