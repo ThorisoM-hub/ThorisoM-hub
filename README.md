@@ -64,8 +64,8 @@ Designing, deploying, securing and supporting enterprise Windows environments, h
   [View Project](https://github.com/ThorisoM-hub/Secure-workstation-Build)
 - 🏢 Active Directory Home Lab with PowerShell
 - 🔐 THM Active Directory Basics Lab
-- 🖨️ Printer Troubleshooting *(Coming Soon)*
-
+- 🖨️ Printer Troubleshooting 
+     [View Project](https://github.com/ThorisoM-hub/printer-troubleshooting-network-printing-lab/edit/main/README.md)
 ---
 
 ## 🌐 Networking & Network Security
@@ -90,7 +90,7 @@ Designed and implemented a secure enterprise network for a simulated multi-depar
 
   **Skills:** LAN Configuration • IPv4 • DHCP • Static IP Addressing • Connectivity Testing • Network Troubleshooting
 
-  [View Project](https://github.com/ThorisoM-hub/Cisco-Networking-Basics-Creating-a-LAN---Cisco-Packet-Tracer/blob/main/README.md)
+  [View Project](https://github.com/ThorisoM-hub/Cisco-Networking-Basics-Creating-a-LAN---Cisco-Packet-Tracer/blob/main/README.mdhttps://github.com/ThorisoM-hub/printer-troubleshooting-network-printing-lab/edit/main/README.md)
 
 - 📡 Network Traffic Analysis with Wireshark
    **[Network Traffic Analysis with Wireshark]**
