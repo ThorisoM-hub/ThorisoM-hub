@@ -282,7 +282,7 @@ Automating security, administration and operational tasks through scripting.
 ## 🤳 Connect with me:
 
 [![YouTube](https://img.shields.io/badge/YouTube-@TM_Tech_Labs-red)](http://www.youtube.com/@TM_Tech_Labs)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thoriso_Maditse-blue)](https://www.linkedin.com/in/thoriso-maditse-01ab84220/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thoriso_Maditse-blue)](https://www.linkedin.com/in/thorisomaditse)
 [![Profile Views](https://komarev.com/ghpvc/?username=ThorisoM-hub&style=flat-square&color=blue)](https://github.com/ThorisoM-hub)
 ---
 
