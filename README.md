@@ -281,9 +281,9 @@ Automating security, administration and operational tasks through scripting.
 
 ## 🤳 Connect with me:
 
-[![YouTube](https://img.shields.io/badge/YouTube-@Thoriso_Maditse-red)](http://www.youtube.com/@TM_Tech_Labs)
+[![YouTube](https://img.shields.io/badge/YouTube-@TM_Tech_Labs-red)](http://www.youtube.com/@TM_Tech_Labs)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thoriso_Maditse-blue)](https://www.linkedin.com/in/thoriso-maditse-01ab84220/)
-
+[![Profile Views](https://komarev.com/ghpvc/?username=ThorisoM-hub&style=flat-square&color=blue)](https://github.com/ThorisoM-hub)
 ---
 
 > *"Cybersecurity is not just about defense, but also about understanding the ever-evolving landscape of threats and staying ahead."*
