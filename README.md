@@ -124,11 +124,9 @@ Managing enterprise identities, authentication, authorization and least privileg
 **Featured Projects**
 
 - 🏢  *[Active Directory Home Lab with PowerShell]
-  **: PowerShell-based Active Directory administration lab demonstrating enterprise identity management and Windows administration.
-
+  **:This project simulates an enterprise IT operations and IAM lifecycle through PowerShell-driven bulk user provisioning in Active Directory, GPO endpoint hardening (USB blocks, password policies, and screen locks), and simulated Jira ITSM ticketing workflows with SLA tracking and audit-ready resolution documentation.
   **Technologies:** Active Directory • PowerShell
-
-  **Skills:** User Management • Group Policy • Active Directory Administration • IAM • Windows Server Administration
+ **Skills:** `Active Directory (AD DS)` • `PowerShell Automation` • `ADUC` • `Group Policy Management (GPMC / GPO)` • `Bulk User Provisioning` • `Joiner-Mover-Leaver (JML) Lifecycle` • `Password & Account Lockout Management` • `USB & Removable Storage Control` • `Desktop & Endpoint Standardization` • `GPO Diagnostics (gpupdate / gpresult)` • `Organizational Units (OU)` • `Security Groups & NTFS Permissions` • `Delegated Administration` • `Principle of Least Privilege (PoLP)` • `Role-Based Access Control (RBAC)` • `Authentication & Kerberos/DNS Troubleshooting` • `Access Reviews & Account Auditing` • `Jira Service Management (ITSM)` • `Ticketing Lifecycles & Audit Documentation` • `SLA Response & Escalation Management` • `End-User Technical Support`
 
   [View Project](https://github.com/ThorisoM-hub/-Active-Directory-Home-Lab-Using-PowerShell/blob/main/README.)
 
